@@ -1,0 +1,131 @@
+Cohen's Kappa per code:
+attack sophistication_moderate: 0.170
+attack sophistication_rudimentary: 0.450
+attack sophistication_sophisticated: 0.490
+audience_consumers: 0.537
+audience_creator: 0.295
+audience_fans: 0.217
+audience_high profile individuals: 0.000
+audience_high-profile individuals: 0.000
+audience_media users: 0.030
+audience_national or political constituency: 0.000
+audience_private individual - adult: -0.033
+audience_private individual - minor: 0.466
+audience_unknown: 0.000
+goal_deceive: 0.650
+goal_entertain: 0.244
+goal_experiment: 0.350
+goal_harass: 0.712
+goal_influence: 0.510
+goal_unknown: 0.000
+harm awareness_high: 0.741
+harm awareness_low: 0.518
+harm awareness_moderate: 0.386
+harm-audience_economic or financial harm: 0.000
+harm-audience_harm to public interest: 0.000
+harm-audience_not stated: 0.000
+harm-audience_psychological harm: 0.000
+harm-audience_reputational harm: 0.000
+harm-audience_unknown: 0.000
+harm-target_economic or financial harm: 0.000
+harm-target_harm to human rights and fundamental rights: 0.000
+harm-target_harm to public interest: 0.000
+harm-target_psychological harm: 0.000
+harm-target_reputational harm: 0.000
+harm-target_unknown: 0.000
+harm_economic or financial harm: 0.000
+harm_economic or financil harm: 0.000
+harm_harm to public interest: 0.000
+harm_none: 0.000
+harm_psychological harm: 0.000
+harm_reputational harm: 0.000
+mechanism of dissemination_advertisement: 0.716
+mechanism of dissemination_custom application: 0.839
+mechanism of dissemination_forums: 1.000
+mechanism of dissemination_messaging application: 0.295
+mechanism of dissemination_messaging applications: 0.000
+mechanism of dissemination_none: 0.000
+mechanism of dissemination_phone communication: 1.000
+mechanism of dissemination_radio: 1.000
+mechanism of dissemination_social media: 0.679
+mechanism of dissemination_streaming platform: 0.783
+mechanism of dissemination_streaming platforms: 0.000
+mechanism of dissemination_television: 0.716
+mechanism of dissemination_video conferencing: 0.000
+mechanism of dissemination_website: 0.197
+media type_audio: 0.674
+media type_image: 0.928
+media type_images: 0.000
+media type_video: 0.784
+media type_voice: 0.095
+method_editing: 0.294
+method_reenactment: 0.684
+method_replacement: 0.890
+method_synthesis: 0.589
+motive_financial: 1.000
+motive_political: 1.000
+motive_sexual: 0.708
+motive_social: 0.009
+motive_social (education): 0.000
+motive_unknown: 0.000
+organization level_group: 0.000
+organization level_individual: 0.000
+organization level_institution: 0.000
+organization_group: 0.000
+organization_individual: 0.000
+organization_institution: 0.000
+organization_unknown: 0.000
+realis_actual: 0.000
+realis_generic: 0.652
+response_arrest: 1.000
+response_content removal: 0.633
+response_criminal investigation: 0.739
+response_lawsuit: 1.000
+response_loss recovery: 1.000
+response_media investigation: 0.000
+response_none: 0.000
+response_opprobrium: 0.644
+response_technology ban: 0.000
+response_unknown: 0.000
+response_usage policy change: -0.045
+response_user ban: 1.000
+social relation_anonymous: 0.633
+social relation_close: 0.669
+social relation_public: 0.533
+target_any: 0.000
+target_politician: 1.000
+target_private individual - adult: 0.518
+target_private individual - minor: 0.763
+target_public figure: 0.936
+target_synthetic persona: 0.713
+target_sythnetic persona: 0.000
+target_unknown: 0.000
+threat actor_activist: -0.033
+threat actor_artist: 0.475
+threat actor_general users: 0.000
+threat actor_nation state: 0.528
+threat actor_organized criminal group: 0.244
+threat actor_politician: 0.000
+threat actor_private company: 0.530
+threat actor_private individual: 0.000
+threat actor_scammers: 0.633
+threat actor_sexual exploiter: 0.000
+threat actor_unknown: 0.000
+threat category_extortion: 0.000
+threat category_fraud: 0.890
+threat category_likeness appropriation: 0.330
+threat category_non-consensual sexual media: 1.000
+threat category_propaganda: 0.431
+threat category_propoganda: 0.000
+threat category_satire: 0.000
+threat category_synthetic entertainer: 0.446
+threat category_trolling: 0.000
+tool_custom: 0.000
+tool_not stated: 0.000
+tool_open-source: -0.033
+tool_proprietary: 0.860
+tool_unknown: 0.799
+
+Average Cohen's Kappa: 0.326
+Krippendorff's Alpha: 0.496
+
