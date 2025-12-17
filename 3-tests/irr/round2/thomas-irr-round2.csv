@@ -1,0 +1,727 @@
+incident_id,title,justification,text,date,location,domain,deployer,developer,Media Type,Threat Category,Threat Actor,Goal,Motive,Harm Awareness,Organization Level,Target,Audience,Tool,Method,Harm-Target,Harm-Audience,Response,Realis,Mechanism of Dissemination,Social Relation,Barrier to Entry,Attack Sophistication
+AIAAIC1844,26 US Members of Congress attacked using porn deepfakes,Agreement,"What happened
+
+Over 35,000 instances of nonconsensual intimate imagery (NCII) involving 26 unnamed lawmakers were discovered on deepfake platforms by The American Sunlight Project.
+
+Of those affected, 25 were women, highlighting a significant gender disparity in the victims of this technology.
+
+Most of these images were removed after the researchers alerted the lawmakers' offices, but concerns remain about the potential for re-uploading and distribution of the content.
+
+Why it happened
+
+The rise in deepfake pornography is attributed to advancements in AI technology, which has made it increasingly easy to create realistic nonconsensual content in seconds.
+
+The study found that younger members of Congress were disproportionately targeted and concluded that female lawmakers were 70 times more likely to be victims compared to their male counterparts.
+
+The lack of comprehensive regulations around deepfakes exacerbates the issue, allowing perpetrators to exploit the technology with minimal repercussions.
+
+What it means
+
+The situation poses serious implications for women in politics and public life, potentially discouraging their participation due to fears of harassment and reputational damage.
+
+Experts like researcher and writer Nina Jankowicz emphasise that the phenomenon sends a chilling message to women about the consequences of raising their voices in public forums.",2024,USA,Politics,,,Image,Non-consensual sexual media,Sexual Exploiter,"Harass, Entertain",Sexual,Yes,Unknown,Politician,Unknown,Proprietary,Replacement,"Reputational harm, Harm to human rights and fundamental rights, Psychological harm",Psychological harm,Content removal,Actual,Website,Public,Low,Rudimentary
+AIAAIC1532,50 Melbourne school girls targeted using AI nude images,Identifiable individuals,"Fifty female students at Bacchus Marsh Grammar school in Melbourne, Australia, were targeted with AI-generated fake nude images.
+
+The images which were shared on social media, appeared to have been created using AI to graft photos of the girls' faces obtained from their private social media accounts onto others' bodies.
+
+The mother of one of the targeted students shared that her 16-year-old daughter vomited after seeing the ""incredibly graphic"" and ""mutilated"" images online. The school said it was working with police to remove the images from social media and determine if the perpetrator is a student or someone else.
+
+A teenage male was subsequently arrested in relation to the incident and released pending further inquiries.
+
+The school said it was offering support to the affected students, who are in years 9 to 12 (approximately ages 14-18), and their families. The school's principal described the incident as ""appalling"" and stated that the girls should be able to learn without facing such ""nonsense"".
+
+The incident drew widespread criticism, with many expressing concern over the safety and well-being of young girls in schools and online communities, and the lack of adequate regulation on non-consensual deepfake pornographic images in Australia.",2024,Australia,Education,Bacchus Marsh Grammar students,,Image,Non-consensual sexual media,Private individual - minor,"Harass, Entertain",Sexual,Yes,Individual,Private individual - minor,Media users,Proprietary,Replacement,"Psychological harm, Harm to human rights and fundamental rights, Reputational harm",Psychological harm,"Content removal, Criminal investigation, Arrest",Actual,Social media,Close,Low,Rudimentary
+AIAAIC1066,AI converts Asian-American student into Caucasian,Editing,"Image generator Playground AI changed the face of Asian-American Massachusetts Institute of Technology (MIT) student Rona Wang into a Caucasian, fueling accusations that the system is racist.
+
+Wang, 24, said she used text-to-image generator Playground AI to convert an image of her in an MIT sweatshirt into 'a professional LinkedIn profile photo.' The system returned an image of her with a a fairer complexion, dark blonde hair, and blue eyes.
+
+Wang told Boston.com, 'Wow, does this thing think I should become white to become more professional?’
+
+Playground AI founder Suhail Doshi responded to incident by saying 'models aren’t instructable like that' and will pick 'any generic thing based on the prompt.'",2023,USA,Media/entertainment/sports/arts,Rona Wang; Playground AI,Playground AI,Image,,Private individual - adult,Experiment,"Social, Financial",No,Individual,Private individual - adult,Media users,Proprietary,Editing,Psychological harm,Unknown,Opprobrium,Actual,"Social media, Website",Close,Low,Rudimentary
+AIAAIC1006,"AI impersonation scams Canadian couple of USD 21,000",Agreement,"What happened
+
+The scammers used AI technology to clone the voice of Benjamin Perkins, the son of the couple, which had been available online through videos he posted on platforms like YouTube.
+
+According to the Washington Post, a ""lawyer"" had allegedly put Benjamin on the line to underline the gravity and urgency of the situation.
+
+Perkins' synthetic voice was sufficiently close to his real voice that his parents believed the call and sent the money to the scammer using Bitcoin. The couple only realised they had been scammed after Perkin called later that evening.
+
+Perkin told the the Post that he didn't know how the scammer discovered his voice, though he had posted videos about snowmobiling on YouTube.",2023,Canada,Banking/financial services,,,Audio,"Fraud, Extortion",Scammers,Deceive,Financial,Yes,Unknown,Private individual - adult,Private individual - adult,Unknown,Editing,Reputational harm,"Psychological harm, Economic or financial harm",None,Actual,Phone communication,Close,High,Sophisticated
+AIAAIC0455,AI influence campaign promotes Beijing interests in SE Asia,Fully synthetic persona,"Beijing ran an AI-powered network targeting Philippines, Southeast Asia and the US, prompting concerns about China's covert use of western social media platforms to promote its interests.
+
+One network, which had links to people in Fujian province, China, primarily targeted the Philippines and South East Asian countries, and employed fake social media accounts to spread messages about China’s naval actions in the South China Sea, Hong Kong and in support of Philippine president Rodrigo Duterte.
+
+It also posted content in support of or against presidential contenders Joe Biden, Donald Trump and Pete Buttigieg. The network apparently gained little traction in the US. Facebook took down 155 Facebook accounts, 11 Pages, nine Groups and six Instagram accounts affiliated with the network.
+
+The second network originated in the Philippines and targeted users there with pro-Duterte content. 57 accounts, 31 Pages and 20 Instagram accounts were removed from Facebook.
+
+Both operations used faces created through an AI technique known as GANs, and broke Facebook’s rules against “coordinated inauthentic behavior on behalf of a foreign or government entity.”",2020,Hong Kong; Philippines; USA,Govt - foreign,Government of China,Government of China,Video,Propaganda,Nation state,Influence,Political,Yes,Institution,Synthetic persona,Media users,Custom,Synthesis,None,Harm to public interest,Content removal,Actual,Social media,Anonymous,High,Sophisticated
+AIAAIC1774,AI nudification bots swamp Telegram,Identifiable individuals,"What happened
+
+A WIRED investigation discovered over 50 bots generating non-consensual fake nude images of women from regular photos, and drawing an estimated 4 million monthly users combined.
+
+An earlier BalkanInsight (BIRN) investigation reported that tens of thousands of Telegram users in Serbia were sharing images of women ‘undressed’ by artificial intelligence. One such channel - for the ClothOff denudification app - had over 535,000 subscribers.
+
+A February 2025 investigation by Nucleo found 23 Telegram bots actively creating AI-generated child sexual abuse material (CSAM), challenging the company's promises to crack down on such criminal content.
+
+The victims often experience severe emotional distress, humiliation, fear and long-term psychological trauma due to the non-consensual nature of the images.
+
+In some cases, the images are used to extort money.
+
+Why it happened
+
+Telegram's platform supports a multitude of channels and bots that facilitate the sharing and creation of these images, with users incentivised through gamification elements in which they earn rewards for creating and sharing deepfake images.
+
+Telegram reportedly does little or nothing to stop these channels or their use.
+
+Meantime, many legal jurisdictions lack specific regulations addressing altered images created by AI, leaving victims vulnerable to exploitation without legal recourse.
+
+What it means
+
+The findings raise significant concerns about the implications for privacy and the psychological well-being of victims, particularly young girls and women.
+
+The situation underscores the urgent need for up-to-date legislation that addresses the unique challenges posed by AI-generated content.
+
+While some initiatives have been proposed, such as the US Deepfake Accountability Act, most have not been signed into law and of those that have, questions about their effectiveness remain.",2024,Croatia; Kosovo; Montenegro; Serbia; USA,Media/entertainment/sports/arts,,"Alaiksandr Babichau, Alexander German, Dasha Babicheva, Yevhen Bondarenko",Image,Non-consensual sexual media,Unknown,"Harass, Entertain","Financial, Sexual",Yes,Unknown,Private individual - adult,Media users,Unknown,Editing,Psychological harm,Economic or financial harm,None,Actual,Messaging application,Anonymous,High,Rudimentary
+AIAAIC1021,AI-cloned Stefanie Sun songs go viral in China,Identifiable individuals,"AI-cloned songs in the name and voice of retired Singapore-based Mandopop singer Stefanie Sun went viral in China, raising questions about copyright and jobs in the music industry.
+
+Generated using so-vits-svc fork, an open source software that enables anyone to train their own AI model to speak in any voice and language, the videos, dubbed AI Stefanie Sun (AI孙燕姿), went viral on China's most popular video platform Bilibili and other platforms.
+
+Fans and commentators reported it was difficult to distinguish between songs sung by Sun and her virtual version, and lamented her loss of copyright. By contrast, Sun, who had not released an album since 2017, responded primarily by lamenting AI's impact on jobs:
+
+'Whether it is ChatGPT or AI or whatever name you want to call it, this ""thing"" is now capable of mimicking and/or conjuring, unique and complicated content by processing a gazillion chunks of information while piecing and putting together in a most coherent manner the task being asked at hand. Wait a minute, isn't that what humans do? The very task that we have always convinced ourselves; that the formation of thought or opinion is not replicable by robots, the very idea that this is beyond their league, is now the looming thing that will threaten thousands of human conjured jobs. Legal, medical, accountancy, and currently, singing a song.'",2023,China; Singapore,Media/entertainment/sports/arts,Bilibili; Kuaishou; QQ Music,,Audio,Synthetic Entertainer,Unknown,"Entertain, Deceive",Social,Unknown,Unknown,Public figure,"Media users, Fans",Open-source,Synthesis,"Economic or financial harm, Psychological harm",Unknown,None,Actual,Streaming Platform,Public,High,Rudimentary
+AIAAIC1350,AI-generated fake ID passes crypto exchange verification,Generic impersonation,"A service claiming to use AI neural networks to create fake ID documents has reportedly succeeded in passing Know Your Customer (KYC) checks on several crypto exchanges.
+
+OnlyFake said it could instantly generate realistic fake identity documents such as driver’s licenses and passports from 26 countries, including the United States, Canada, Australia, the UK and multiple European Union countries for USD 15.
+
+404 Media reported that it successfully bypassed the KYC verification of crypto exchange OKX using a photograph of a British passport one of its journalists generated with the site, where the ID appeared to be laid on a bedsheet as if a picture of it was taken.
+
+Cointelegraph said it had seen a Telegram channel where OnlyFake users were sharing their apparent success in using the IDs to bypass verification at various crypto exchanges and financial service providers, including Kraken, Bybit, Bitget, Huobi and PayPal.
+
+An underground, dark web operation, OnlyFake shifted domains and distributed its new address via private Telegram channels to evade detection as a result of 404's investigation.",2024,Global,Business/professional services,,,Image,Fraud,Unknown,Unknown,Financial,Yes,Group,Synthetic persona,Unknown,Proprietary,Synthesis,None,"Economic or financial harm, Harm to public interest",Media investigation,Actual,Messaging application,Close,High,Sophisticated
+AIAAIC1568,AI-generated Toys ‘R’ Us video ad sparks backlash,Identifiable individuals,"An AI-generated video advert released by Toys 'R' Us sparked controversy and a creative community backlash.
+
+The one-minute video, created using OpenAI's new text-to-video tool Sora, depicts a young Charles Lazarus, the late founder of Toys 'R' Us, in his family's bike shop alongside the brand's mascot, Geoffrey the Giraffe.
+
+However, the ad drew criticism for its numerous errors and inconsistencies, such as distorted character models, deformed toys, and unnatural movements. Critics also argued that using AI to create content targeting children is inappropriate and that young audiences deserve art crafted by human hands.
+
+The ad also prompted advertising executives and others to voice fears that AI could potentially replace their human roles, and complained the ad was little more than a cynical attempt to cut costs at the expense of quality and artistic integrity.
+
+Despite the backlash, Toys 'R' Us executives defended the ad, calling it ""successful"" and hinting at further integration of generative AI in their future strategies.",2024,USA,Media/entertainment/sports/arts,,OpenAI,Video,Likeness Appropriation,Private company,"Influence, Experiment",Financial,No,Institution,Public figure,"Consumers, Private individual - minor",Proprietary,Reenactment,None,Economic or financial harm,Opprobrium,Actual,Advertisement,Public,High,Rudimentary
+AIAAIC1903,AI-manipulated video of Brazilian footballer Ronaldo scams online gamers,Agreement,"What happened
+
+A deepfake video allegedly of Ronaldo appeared on Facebook encouraging users to earn more than their salary by downloading the popular online game Plinco (also known as ""Plinko"").
+
+The video appeared to show Ronaldo speaking to camera in his own voice before showing AI-generated images of a schoolteacher, a bus driver and a grocery store worker.
+
+However, the audio had been manipulated and the link provided led to a fake game called Bubble Shooter and likely resulted in people being defrauded.
+
+A Faceboook user reported the content to Meta but the company did not remove it. The post was viewed approximately 600,000 times before finally being taken down.
+
+Why it happened
+
+The scam was made possible by the increasing sophistication and accessibility of software enabling anyone to create highly convincing deepfake videos quickly and at little or no cost.
+
+The scammers likely targeted Ronaldo due to his fame and influence in order to lend credibility to their scheme.
+
+Meta's initial failure to remove the content, despite user reports, is likely to have contributed to the scam's spread.",2024,Brazil,Media/entertainment/sports/arts,,,Video,Likeness Appropriation,Scammers,Deceive,Financial,Yes,Group,Public figure,"Media users, Fans",Unknown,Replacement,"Reputational harm, Economic or financial harm",Economic or financial harm,Content removal,Actual,Advertisement,Public,Low,Sophisticated
+AIAAIC1771,Al account recovery scam calls target Gmail users,Generic impersonation,"What happened
+
+According to security researcher Sam Mitrovic, who experienced it first hand, the scam begins with an unexpected notification asking users to approve a recovery request they had not initiated.
+
+Following this, victims typically receive a phone call from someone posing as a Google support representative, using a convincing American accent and professional demeanour.
+
+The American voice explained there had been some suspicious activity on Mitrovic's Google account and someone had accessed it a week ago. The apparent Google employee offered to send an email detailing what happened, and that message promptly arrived from an official Google address.
+
+However, Mitrovic realised the voice was actually AI-manipulated or generated and hung up.
+
+Why it happened
+
+With nearly 2.5 billion users globally, Gmail is an appealing target for cybercriminals.
+
+Scammers use sophisticated techniques, including AI-generated voices and spoofed email addresses, to create a sense of legitimacy. The use of AI enhances the realism of the calls, making it harder for victims to detect the fraud.
+
+In addition, the scammers take advantage of common fears about account security, manipulating users into acting quickly without verifying the authenticity of the requests.
+
+What it means
+
+The rise of these types of scams indicates a trend in cybercrime where traditional phishing tactics are being augmented with advanced technology such as AI. This not only makes scams more convincing but also increases the risk for unsuspecting users who may not be equipped to identify these threats.
+
+As these tactics evolve, it becomes crucial for users to remain vigilant and adopt protective measures, such as verifying unexpected recovery requests and regularly checking their account security settings.",2024,Global,Technology,,,Audio,Fraud,Scammers,Deceive,Financial,Yes,Unknown,Synthetic persona,Consumers,Unknown,Synthesis,None,"Economic or financial harm, Psychological harm",Media investigation,Actual,Phone communication,Anonymous,High,Sophisticated
+AIAAIC1425,Al video depicts Indonesian presidential hopeful speaking fluent Arabic,Agreement,"An AI-altered TikTok video purportedly falsely showed Anies Baswedan, an Indonesian presidential candidate, speaking Arabic at a rally.
+
+Despite Baswedan's team clarifying he only has a basic grasp of Arabic, the video falsely portrayed him as fluent. Analysis by AFP confirmed the video had been automatically translated.
+
+The 18-second fake clip highlighted Baswedan advocating for the Nasdem Party, which had endorsed his presidential bid, and garnered over 2.6 million views.
+
+The incident led to the widespread belief amongst viewers regarding Baswedan’s linguistic prowess.
+
+The manipulated video was created from genuine footage of Baswedan speaking Bahasa Indonesian at a July 2023 political event.",2023,Indonesia,Politics,,HeyGen,Video,Propaganda,Unknown,Influence,Political,Unknown,Unknown,Politician,Media users,Proprietary,Editing,Reputational harm,Harm to public interest,Media investigation,Actual,Social media,Public,Low,Rudimentary
+AIAAIC1445,Alberta Party endorses itself using deepfake video,Agreement,"A video shared online by Canada's Alberta Party featuring a man endorsing the party faced a backlash after social media users pointed out that the man in the video was not a real person.
+
+The video showed a man in front of a superimposed image of Calgary. Alberta Party leader Barry Morishita later acknowleged it had been created using video creation platform Synthesia.
+
+The clip was subsequently deleted.
+
+The incident raised ethical questions about the Alberta's Party deliberate manipulation of reality and the potential for misinformation and disinformation.
+
+It also raised concerns about the use of deepfake technology in politics, and the need for transparency and rules and regulations governing use of the technology in Canada.",2023,Canada,Politics,Alberta Party,Synthesia,Video,Propaganda,Unknown,Influence,Political,No,Unknown,Synthetic persona,Media users,Proprietary,Synthesis,None,Unknown,Opprobrium,Actual,Social media,Anonymous,Low,Rudimentary
+AIAAIC1447,Alexandria Ocasio-Cortez depicted as deepfake pornstar,Agreement,"US congress member Alexandria Ocasio-Cortez, also known as AOC, said she was the victim of a deepfake video that depicted her in sexually explicit acts.
+
+Ocasio-Cortez, a survivor of physical sexual assault, opened up about the shock she felt upon seeing a video of herself online that others could perceive as real in an interview with Rolling Stone.
+
+She explained that the mental image of the deepfake version of herself performing sexual acts was deeply disturbing and resurfaced trauma.
+
+She warned of the real effects such deepfakes can have, not just on the victims, but also on those who view and consume such content, and equated the harm from 'digitizing violent humiliation' to physical rape.
+
+The interview was in the context of the Disrupt Explicit Forged Images and Non-Consensual Edits (DEFIANCE) Act of 2024 the politician had spearheaded in the US House of Congress.
+
+The bill aims to make it easier for victims of nonconsensual AI porn to sue publishers, distributors and consumers of X-rated digital forgeries.",2024,USA,Politics,,,Video,Non-consensual sexual media,Unknown,"Harass, Entertain",Sexual,Yes,Unknown,Politician,Media users,Unknown,Reenactment,"Psychological harm, Harm to human rights and fundamental rights",Unknown,None,Actual,Social media,Public,Low,Rudimentary
+AIAAIC1116,Almendralejo hit by AI naked child images,Identifiable individuals,"AI-generated nude images of over twenty girls circulated in the town of Almendralejo in the Extremadura region of Spain, shocking the local community and prompting a police investigation.
+
+Apparently created by a group of eleven local boys in an attempt to harrass, humiliate, and, in one instance, extort young students, pictures were developed using photos of local girls fully clothed, mostly from their personal social media accounts.
+
+The images were processed using ClothOff, a controversial nudifier application available on the web and freely available on the Apple and Android app stores and distributed on WhatsApp and Telegram.
+
+The impact the images' circulation had on the girls affected was said to vary, with some girls suffering extreme emotional distress and anxiety and loss of dignity and refusing to leave their house due to fear of social stigmitisation.
+
+Told about the photos by their daughters, the incident deeply shocked the local community
+
+The incident resulted in a police investigation, which resulted in the identification of at least eleven boys involved in either creating or circulating the images.",2023,Spain,Education,Almendralejo school students,"Alaiksandr Babichau, Alexander German, Dasha Babicheva, Yevhen Bondarenko",Image,"Non-consensual sexual media, Extortion",Private individual - minor,"Harass, Influence","Sexual, Social",Yes,Group,Private individual - minor,"Media users, Private individual - minor",Proprietary,Editing,"Psychological harm, Reputational harm, Harm to human rights and fundamental rights",Unknown,Criminal investigation,Actual,Social media,Close,Low,Rudimentary
+AIAAIC1432,Amazon Studios lawsuit alleges use of GenAI to clone actors voices,Agreement,"Amazon MGM Studios was accused of trying to rush production using AI voice cloning during actors' strikes to avoid a copyright deadline.
+
+The original screenwriter of Road House, R. Lance Hill, sued Amazon MGM studios for copyright infringement and accused them of using extreme measures including AI voice cloning of actors’ voices to rush production of the Road House remake.
+
+Amazon MGM Studios denied using generative AI on the roadhouse production.
+
+Use of generative AI during the prolonged Hollywood strike is viewed as sensitive as AI was one of the topics that became a major concern and brought the industry to a standstill.
+
+Ultimately, studios and streaming platforms reached an agreement to seek consent prior to using digital duplicates and to provide remuneration to the talent if used.",2024,USA,Media/entertainment/sports/arts,Amazon Studios,,Audio,Synthetic Entertainer,Private company,"Entertain, Experiment",Financial,Yes,Institution,Synthetic persona,"Media users, Consumers",Unknown,Synthesis,None,Unknown,Opprobrium,Generic,"Television, Streaming Platform",,High,Sophisticated
+AIAAIC0676,Anthony Bourdain deepfake voice results in backlash,Agreement,"The unauthorised use of AI to recreate the voice of Anthony Bourdain in a documentary resulted in a backlash by film critics and others.
+
+Roadrunner, a documentary about the life and death of chef and TV personality Anthony Bourdain, used deepfake technology to re-create Bourdain's voice without disclosure and without the permission of Bourdain's widow Ottavia.
+
+In an interview with the New Yorker, filmmaker Neville Morgan described how he had supplied an AI company with a dozen hours of Bourdain speaking in order to manufacture three quotes he had wanted the TV host to say.
+
+The interview led to a backlash by film critics, film makers and others, who accused Morgan of underhand, manipulative and unethical behaviour.
+
+""We can have a documentary-ethics panel about it later"", Morgan quipped.",2021,USA,Media/entertainment/sports/arts,Focus Features,Morgan Neville,Audio,Synthetic Entertainer,Artist,Entertain,"Financial, Social",No,Individual,Public figure,"Media users, Fans",Proprietary,Synthesis,None,Unknown,Opprobrium,Actual,"Television, Streaming Platform",Public,High,Sophisticated
+AIAAIC0236,Athena Chu deepfake face swap prompts controversy,Agreement,"A video that spliced Chinese actress Yang Mi with Athena Chu, an older Hong Kong actress who starred in a 25-year-old TV series The Legend of the Condor Heroes set China's social media alight, and not in an altogether positive manner.
+
+Chinese 'netizens' criticised its creator for disrespecting both actresses and of violating Yang's image rights, and worried about the broader effects of the technology on society.
+
+The video creator, who went under the pseudonym Xiao (which translates as 'Brother Face-Swapping'), apologised, claiming he had wanted to educate the public on the danger of deepfakes.
+
+The video was removed from Weibo, China's Twitter equivalent.
+
+However, many copies continue to circulate online.",2019,China,Media/entertainment/sports/arts,,,Video,Synthetic Entertainer,Activist,"Influence, Entertain",Social,No,Individual,Public figure,"Media users, Fans",Unknown,Synthesis,"Reputational harm, Economic or financial harm",Unknown,Opprobrium,Actual,Social media,Public,High,Rudimentary
+AIAAIC1151,Audio AIs impersonate former South Sudan leader Omar al-Bashir,Agreement,"Audio recordings appearing to show Omar al-Bashir, the former leader of Sudan, criticising the head of the Sudanese army have been identified as having been manipulated using artificial intelligence.
+
+The recordings were initially posted to political channel The Voice of Sudan, before garnering hundreds of thousands of views on TikTok.
+
+BBC analysts identified several of the recordings as matching broadcasts aired days earlier by popular Sudanese political commentator, Al Insirafi.
+
+The evidence suggested that AI-powered voice conversion software was used to mimic Bashir speaking.
+
+While the purpose of the campaign remains unclear, The Voice of Sudan denied misleading the public and said it was not affiliated with any political or military groups.
+
+TikTok has since taken down the account on the basis that it broke its guidelines on posting 'false content that may cause significant harm', and its rules on the use of synthetic media.
+
+The finding highlighted the increasingly high quality of deepfake technology and underscored concerns about how the technology is being used in Sudan and in politics more generally.",2023,Sudan,Politics,,,Audio,Propaganda,Private company,Influence,Political,Unknown,Group,Politician,Media users,Unknown,Editing,Reputational harm,Harm to public interest,Content removal,Actual,Social media,Public,High,Rudimentary
+AIAAIC0462,Audio deepfake fraudulently impersonates CEO,Agreement,"An unknown person defrauded a company by using AI to impersonate its CEO, prompting concerns about the use of AI for scams and other malicious purposes.
+
+US-based cybersecurity company NISOS uncovered an attempted fraud in which an employee received a call from someone identifying himself as his company CEO asking him to call back for 'immediate assistance to finalize an urgent business deal.'
+
+The employee 'immediately thought it suspicious' and called the legal department.
+
+It transpired the voice had been faked and the number the would-be victim was meant to call was a VOIP service burner with no user information.",2020,USA,Technology,,,Audio,Fraud,Unknown,Deceive,Financial,Yes,Unknown,Public figure,Private individual - adult,Unknown,Synthesis,Reputational harm,Unknown,Criminal investigation,Actual,Phone communication,Public,High,Rudimentary
+AIAAIC1475,BBC presenter’s AI-generated voice used to trick company,Agreement,"A BBC presenter's image was used in an ad campaign without her consent after an AI deepfake of her voice was used by a scammer to negotiate the deal.
+
+Insect repellant company Incognito was tricked into believing it was speaking to BBC science presenter, Liz Bonnin, through a series of voice messages and a Facebook profile allegedly purporting Bonnin's identity.
+
+The deal was in fact negotiated between a scammer and Incognito CEO Howard Carter via email and Whatsapp voice messages. Incognito paid the scammer GBP 20,000, believing it to be Bonnin.
+
+AI experts analysed the voice messages and agreed the voice was likely to have been generated using AI given the inconsistency in accent and the voice’s cadence and monotony.
+
+The incident was seen as a warning about potential misuse of AI voice replication technologies.
+
+In addition, Incognito lost money and faced reputational damage.",2024,UK,Media/entertainment/sports/arts,,,Audio,Fraud,Scammers,Deceive,Financial,Yes,Individual,Public figure,Private individual - adult,Unknown,Reenactment,"Reputational harm, Economic or financial harm","Reputational harm, Economic or financial harm",Media investigation,Actual,"Social media, Phone communication",Public,High,Sophisticated
+AIAAIC1159,Bella Hadid 'stands with Israel' deepfake,Agreement,"A video of Palestinian model Bella Hadid declaring support for Israel has been exposed as a deepfake, sparking ethical concerns about consent, privacy, and political disinformation.
+
+The video, which was posted on X (formerly Twitter) by CEO of Israeli NGO Shrink the Conflict Danel Ben Namer, shows Hadid appearing to apologise for past remarks and saying she stands with Israel following the October 7, 2023, attack by Hamas militants.
+
+In the doctored video, Hadid says, 'On October 7, 2023, Israel faced a tragic attack by Hamas. I can't stay silent. I apologize for my past remarks. This tragedy has opened my eyes to the pain endured here and I stand with Israel against terror.'
+
+However, the clip was denounced as a deepfake version of a speech the model gave in 2016 about her battle with Lyme disease.
+
+Hadid, who has a Palestinian father, has been a vocal proponent of Palestinian rights for years.",2023,Israel; Palestine,Media/entertainment/sports/arts; Politics,,,Video,Propaganda,Private company,Influence,Political,Yes,Group,Public figure,"Media users, Fans",Unknown,Reenactment,"Harm to human rights and fundamental rights, Reputational harm","Psychological harm, Harm to public interest",Media investigation,Actual,Social media,Public,High,Rudimentary
+AIAAIC1377,Beverly Hills students created and shared AI nude images of fellow students,Agreement,"Five students at Beverly Vista Middle School, Los Angeles, created and shared AI-generated images of fellow students, resulting in a police investigation and their expulsion.
+
+School principal Dr. Kelly Skon said in a statement to parents that staff had been alerted about the photos in which the faces of students were added to nude bodies using AI technology. The five 'egregiously involved eighth-grade students' were later expelled.
+
+The discovery sparked outrage amongst parents, students and school authorities. One student told NBC4 that students were too scared to go to school lest they be targeted. A mother of a student at the school told CBS that she felt victimised even though her daughter was not one of the victims.
+
+The incident was the latest in a spate of similar events, and was seen to highlight gaps in California and US federal law on child pornography.
+
+Some parents argued that taking disciplinary action against the accused group was inadequate and that companies creating and facilitating deepfake and nudifier technologies should also be held responsible.",2024,USA,Education,Beverly Vista Middle School students,,Image,Non-consensual sexual media,Private individual - minor,"Harass, Entertain",Sexual,Yes,Group,Private individual - minor,Media users,Unknown,Replacement,"Harm to human rights and fundamental rights, Psychological harm, Reputational harm",Psychological harm,Criminal investigation,Actual,Social media,Close,Low,Rudimentary
+AIAAIC0894,Binance CCO Partick Hillmann impersonated in deepfake scam,Agreement,"Hackers used AI-generated holograms of a senior Binance employee to deceive representatives of various cryptocurrency projects.
+
+The AI hologram was used in Zoom calls to mislead crypto project representatives into believing they were discussing potential asset listings on Binance.
+
+The scheme only came to light when Binance COO Patrick Hillmann received messages from individuals thanking him for meetings he had never attended, raising suspicions about the legitimacy of these interactions.
+
+Hillmann had no knowledge of these meetings because he is not part of the listing process at Binance, he said.
+
+The event signals a growing challenge posed by deepfake technology and synthetic media in digital communication, necessitating more robust security protocols and public awareness campaigns to combat these kinds of threats.",2022,Global,Banking/financial services,,,Video,Fraud,Scammers,Deceive,Financial,Yes,Unknown,Public figure,"High-profile individuals, Media users",Unknown,Reenactment,None,Economic or financial harm,Media investigation,Actual,Video Conferencing,Public,High,Sophisticated
+AIAAIC1173,Carmel school students attack Principal with racist deepfake video,Agreement,"Students at Carmel High School, USA, concocted deepfake videos of a nearby school principal and law enforcement officer shouting racist slurs and threatening to kill Black students.
+
+In one video, John Piscitella, the principal of nearby George Fisher Middle School, rants 'I f*cking hate Black kids. Like these stupid f*cking n***er monkey parents need to stop sending them here. Get them the f**k out, all of them.'
+
+The incident alarmed and angered parents, who alleged the school had not taken the threats in the videos seriously and had failed to inform them properly.
+
+It also highlighted the lack of adequate legislation to handle malicious deepfake impersonations at federal and state levels in the USA.
+
+The parents said they would file a lawsuit against the school authorities over the incident.",2023,USA,Education,,,Video,Propaganda,Private individual - minor,Influence,"Political, Social",Yes,Group,Private individual - adult,Media users,Unknown,Reenactment,Reputational harm,"Psychological harm, Harm to public interest",Media investigation,Actual,Social media,Public,Low,Rudimentary
+AIAAIC0761,Chinese government facial recognition system hacked by tax fraudsters,Generic impersonation,"Two men in China tricked the country's State Taxation Administration's facial recognition identity verification system into creating fake invoices, raising fears about the stength of its security.
+
+Two fraudsters, identified only by their surnames Wu and Zhou, manipulated high-definition photographs with an app available on the black market that turns photos into videos to create deepfake videos that simulated facial movements like nodding, blinking and mouth opening.
+
+They then used a smartphone to bypass the government system camera during facial authentication, instead feeding their doctored videos into and successfully fooling the identity verification process.
+
+The two then created fake tax invoices, defrauding the taxation department by 500 million yuan (approximately USD 76.2 million).
+
+The fraudsters started their operation in 2018 and have since been captured and prosecuted in Shanghai.",2021,China,Govt - finance,State Taxation Administration,State Taxation Administration,Video,Fraud,Scammers,Deceive,Financial,Yes,Group,Synthetic persona,,Proprietary,Synthesis,None,"Economic or financial harm, Harm to public interest","Criminal investigation, Arrest",Actual,Custom application,Anonymous,High,Sophisticated
+AIAAIC1020,"Chinese scammer uses AI to defraud 'friend' of USD 622,000",Identifiable individuals,"A legal advisor at a technology company in Fuzhou, China, was defrauded of RMB 4.3 million (USD 622,000) after receiving a video call from a 'friend' who turned out to be a fraudster using AI face-swapping technology.
+
+According to local police, the fraudster stole an individual’s WeChat account and used AI to create a deepfake of the person's face.
+
+The fraudster made a video call to a businessman who was an existing contact on the individual’s WeChat app and told the businessman they needed to make a deposit during a bidding process.
+
+The businessman subsequently transferred RMB 4.3 million to the fake friend’s bank account without verifying their true identity.
+
+The police later intercepted some of the stolen funds, though reports suggested approximately RMB 1 million was yet to be recovered.
+
+The scam was reckoned to have been the largest of its kind.",2023,China,Banking/financial services,Tencent/WeChat,,Video,Fraud,Scammers,Deceive,Financial,Yes,Individual,Private individual - adult,High-profile individuals,Unknown,Reenactment,None,Economic or financial harm,"Loss recovery, Criminal investigation",Actual,"Messaging application, Video Conferencing",Close,High,Sophisticated
+AIAAIC1431,Chinese voice actor sues AI companies for using her voice without consent,Identifiable individuals,"What happened
+
+The voiceover artist, Yin, sued 5 companies, including the provider of the AI text-to-speech system and the company that had recorded her voice. The system in question uses generative artificial intelligence to recreate voices, allegedly with high precision.
+
+This case is seen to venture into uncharted legal territory, where traditional copyright laws may not apply, thereby potentially setting a precedent for how individual likeness (e.g. “right to voice”) in the era of AI is perceived and protected..
+
+Yin argued this represents a threat to her work and potential income, and added to concerns raised by voice actors globally over the future of their profession.
+
+In April 2024, the court determined that the AI-generated voice was identifiable as Yin's due to its close resemblance in tone and style, thus infringing on her voice rights under Chinese law.
+
+The defendants in the case were ordered to cease activities and pay compensation to the voice actor.
+
+Why it happened
+
+The case arose from Yin's discovery that her recordings, initially made for a media company, were used to train an AI system without her knowledge or consent.
+
+The defendants argued that they had legally obtained the recordings and that the AI-generated voice was sufficiently distinct from Yin's original voice.
+
+However, the court found that the AI's output closely matched Yin's vocal characteristics, leading to public association with her identity.
+
+What it means
+
+The ruling establishes a precedent for protecting individual voice rights in China, affirming that such rights extend to AI-generated voices when they can be associated with a specific individual.
+
+The court ordered the defendants to cease using Yin's voice and to pay her RMB 250,000 (approximately USD 34,500) in damages.
+
+The case emphasises the need for clear consent when using personal voices in AI applications and may prompt further legal developments regarding personality rights as technology continues to evolve.",2023,China,Media/entertainment/sports/arts,,,Audio,Synthetic Entertainer,Private company,Entertain,Financial,Unknown,Institution,Public figure,Consumers,Proprietary,Synthesis,"Economic or financial harm, Harm to human rights and fundamental rights",Unknown,"Content removal, Lawsuit, Loss recovery, Usage policy change",,Custom application,Public,High,Rudimentary
+AIAAIC1105,CivitAI accused of generating synthetic 'child pornography' images,Generic impersonation,"Multiple instances of non-consensual sexual imagery of specific people have been discovered on online AI model marketplace CivitAI.
+
+Despite the company's terms of service saying it would remove 'content depicting or intended to depict real individuals or minors (under 18) in a mature context,' a 404 Media investigation uncovered a Billie Eilish model that generated nude images of a pregnant Eilish that was 'in place for weeks' before being removed.
+
+According to 404 Media, while CivitAI does enforce its policy and remove offending content, non-consensual sexual imagery is still posted to the site 'regularly', some of which stays on the platform 'for months'.
+
+The Billie Eilish model, and the user who created the nude images, were allowed to remain on the site, alongside images of the singer clad in lingerie and with very large breasts, both of which are against CivitAI’s terms of service.",2023,USA,Media/entertainment/sports/arts,,CivitAI,Video,Non-consensual sexual media,Unknown,"Entertain, Harass","Sexual, Social, Financial",Unknown,Unknown,Public figure,Consumers,Unknown,Synthesis,Unknown,Psychological harm,"Media investigation, Content removal",Actual,"Website, Custom application",Public,Low,Rudimentary
+AIAAIC1243,CivitAI accused of generating synthetic 'child pornography' images,Identifiable individuals,"Open source image generator Civitai could be used to make images that ‘could be categorized as child pornography,’ or child sexual abuse material (CSAM), according to a media investigation.
+
+Internal communications at text-to-image platform CivitAI cloud computing supplier OctoML shown to 404 Media revealed that it was aware that some CivitAI users had been creating sexually explicit material, including nonconsensual images of real people and pornographic depictions of children. CivitAI had been using OctoML's OctoAI for image generation.
+
+OctoML responded to 404 Media's report by rolling out a filter to block the generation of NSFW content on CivitAI, before cutting ties with the company. 'We have decided to terminate our business relationship with CivitAI. This decision aligns with our commitment to ensuring the safe and responsible use of AI,' the company told 404 Media.",2023,USA,Media/entertainment/sports/arts,CivitAI,OctoML,Video,Non-consensual sexual media,Private company,"Entertain, Harass",Sexual,Yes,Institution,"Public figure, Private individual - minor, Private individual - adult",Consumers,Unknown,Synthesis,"Psychological harm, Harm to human rights and fundamental rights, Reputational harm",Psychological harm,Media investigation,Actual,"Website, Custom application",Public,Low,Rudimentary
+AIAAIC1190,CivitAI rewards deepfakes of real people,Agreement,"Online AI model marketplace CivitAI has introduced a rewards system that encourages users to create deepfakes of real people.
+
+CivitAI's 'bounties' feature encourages its community to develop deepfakes of real people by allowing users to ask the Civitai community to create AI models that generate images of specific styles, compositions, or specific real people. The person developing the 'best' AI model is rewarded with a virtual currency called 'Buzz'.
+
+In addition to celebrities, 404 Media discovered bounties for private people with no significant online presence, alarming privacy advocates, mental health campaigners and others concerned about the potential use of CivitAI to create non-consensual AI-generated sexual images of real people.
+
+According to 404 Media, CivitAI says bounties should not be used to create non-consensual AI pornography.",2023,USA,Media/entertainment/sports/arts,,CivitAI,Video,"Synthetic Entertainer, Likeness Appropriation, Non-consensual sexual media",Unknown,Entertain,"Financial, Social",Unknown,Institution,"Public figure, Private individual - minor, Private individual - adult",Consumers,Proprietary,Reenactment,Unknown,Unknown,Media investigation,Generic,"Website, Custom application",Anonymous,Low,Rudimentary
+AIAAIC1375,Cloned Ukrainian YouTuber promotes Russia-China relations,Identifiable individuals,"Videos of clones of a Ukrainian YouTube mental health influencer in the guise of a Russian woman extolling the Russia-China relationship circulated on Chinese social media.
+
+20-year-old Olga Loiek spotted videos of herself on Bilibili, Douyin and other Chinese social media platforms speaking Mandarin, promoting national ties between Russia and China, selling Russian goods and saying she wants to marry a Chinese man.
+
+Some of the videos were marked 'HeyGen', a US-based AI video creation company launched in China in 2020.
+
+HeyGen's use and moderation policy states that users cannot generate avatars that 'represent real individuals, including celebrities or public figures, without explicit consent.'
+
+The incident was seen to highlight the ease with which people's identities can be stolen and repurposed by bad actors on HeyGen and other platforms, and the lack of effective enforcement of their terms.",2024,China; Ukraine,Media/entertainment/sports/arts; Politics,,HeyGen,Video,Propaganda,Unknown,Influence,Political,Yes,Unknown,Public figure,Media users,Proprietary,Reenactment,Reputational harm,Harm to public interest,Media investigation,Actual,Social media,Public,Low,Sophisticated
+AIAAIC1366,ClothOff non-consensual denudifier,Identifiable individuals,"ClothOff is a controversial web and smartphone-based app that enables people to ""undress"" women.
+
+The app creates an illusion of nudity by using deep learning algorithms to analyse images and generate nude representations based on clothed photographs.
+
+ClothOff - and several other nudifier apps, including Deepsukebe - appears to be run by a team of people located primarily in Russia and Belarus operating through a web of secretive companies.",,Croatia; Kosovo; Montenegro; Serbia; Spain; USA,Education; Media/entertainment/sports/arts,,"Alaiksandr Babichau, Alexander German, Dasha Babicheva, Yevhen Bondarenko",Image,Non-consensual sexual media,Private company,"Entertain, Harass",Sexual,Yes,Institution,,"Media users, Creator",Proprietary,Replacement,"Reputational harm, Harm to human rights and fundamental rights, Psychological harm",Psychological harm,Media investigation,Generic,"Website, Custom application",,Low,Rudimentary
+AIAAIC1784,Company uses Marques Brownlee AI voice clone to promote product without consent,Agreement,"What happened
+
+Networking product company Dot used an AI-generated clone of Brownlee's voice to promote their Dot Metal product in an Instagram ad.
+
+Brownlee publicly called out the unauthorised use of his voice on social media, describing the company's actions as ""scummy"" and ""shady"".
+
+Why it happened
+
+The increasing accessibility and sophistication of AI voice cloning technology means that, with just a 15-second sample, some AI models can now generate convincing voice clones in minutes.
+
+With thousands of hours of their voice available online, this technology presents a major risk to high-profile individuals like Brownlee, and to employers and others.
+
+In this instance, Dot appears to have attemped to exploit the availability of AI voice cloning technology to capitalise on Brownlee's influence and credibility.
+
+What it means
+
+The incident highlights the extent to which the misuse of AI technologies jeopardises individuals and companies, and raises questions about the ethics and legality of using someone's voice or other likeness without their permission.
+
+It also undercores the need for better safeguards and policies to protect individuals from unauthorised AI-generated replicas.
+
+Audio deepfake
+
+An audio deepfake (also known as voice cloning or deepfake audio) is a product of artificial intelligence used to create convincing speech sentences that sound like specific people saying things they did not say.
+
+Source: Wikipedia 🔗",2024,USA,Media/entertainment/sports/arts,Dot,,Audio,Likeness Appropriation,Private company,Deceive,Financial,Yes,Institution,Public figure,"Media users, Consumers",Unknown,Reenactment,"Reputational harm, Economic or financial harm","Economic or financial harm, Psychological harm",Opprobrium,Actual,Social media,Public,Low,Rudimentary
+AIAAIC1182,Corruption doc incorporating Tom Cruise deepfake attacks IOC,Agreement,"An AI-generated impersonation of Tom Cruise was used in a disinformation campaign dressed up as a Netflix documentary accusing the IOC of corruption.
+
+Fake four-part Netflix video documentary series 'Olympics Has Fallen' alleges widespread corruption across the International Olympic Committee (IOC) and uses Tom Cruise's voice to implicate high-ranking officials.
+
+The IOC has not publicly blamed Moscow for the campaign.
+
+However, the sports body had recently suspended Russia’s National Olympic Committee and announced that Russian and Belarusian athletes would only be allowed to compete in the 2024 Paris Olympics under a neutral flag due to the country's decision to recognise regional sports organisations in the occupied regions of Donetsk, Kherson, Luhansk and Zaporizhzhia in Ukraine as members.
+
+The fake episodes were removed from YouTube but continue to circulate on a Russian-language channel on Telegram.",2023,Russia,Media/entertainment/sports/arts,Government of Russia,Government of Russia,Audio,Likeness Appropriation,Nation state,Influence,Political,Yes,Institution,Public figure,Fans,Unknown,Reenactment,Reputational harm,Harm to public interest,"Content removal, Media investigation",Actual,"Messaging application, Social media",Public,High,Sophisticated
+AIAAIC0544,Cruzcampo Lola Flores deepfake ad draws ethics complaints,Agreement,"An advert by brewer Cruzcampo that used AI to bring back to life celebrated Spanish singer Lola Flores prompted compaints about poor ethics.
+
+According to El País, Flores' voice, face, and features were recreated for the ad using deepfake technology and hours of audiovisual material and over 5,000 photographs.
+
+Devised and created by advertising agency Ogilvy and production firm Metropolitana, the spot encouraged people to be proud of their roots. Flores hailed from Anadalucia and died in 1995.
+
+The campaign was praised for its relevance and realism.
+
+However, others complained it was unethical, in poor taste and crassly commercial.",2021,Spain,Consumer goods,Cruzcampo,WPP/Ogilvy; Metropolitana; DeepFaceLab,Video,Likeness Appropriation,Private company,"Deceive, Entertain, Experiment","Social, Financial",No,Institution,Public figure,"Media users, Consumers, Fans",Custom,Reenactment,Reputational harm,Unknown,"News report, Opprobrium",Actual,Advertisement,Public,High,Sophisticated
+AIAAIC0539,Deepfake 'Amazon FC Ambassadors' sow confusion,Agreement,"Twitter accounts with deepfake profile images purporting to be Amazon employees were used to defend the company's working practices ahead of a vote on the formation of the first labour union at a US Amazon warehouse.
+
+The accounts pocked fun at Amazon and sowed confusion amongst members of the general public, who were unclear who was the behind the accounts and what their purpose was. Some pointed out that the 'robotic' language language used was evidence that employees were being 'paid to lie'.
+
+In August 2018, Amazon had created an 'Amazon FC Ambassadors' programme for a select group of Fulfilment Centre warehouse employees to promote working conditions at the company.",2021,USA,Transport/logistics,,,Image,"Propaganda, Non-consensual sexual media",Unknown,"Influence, Entertain","Political, Social",Unknown,Unknown,Synthetic persona,"Media users, Consumers",Unknown,Synthesis,None,Harm to public interest,News report,Actual,Social media,,Low,Rudimentary
+AIAAIC1048,Deepfake 'Chechnyan' soldier posts false Ukraine war stories,Agreement,"A Chinese man who masqueraded as a Chechnyan special forces soldier operating in Ukraine posted false stories about his exploits in the Russia-Ukraine war, in addition to selling vodka, honey and other products from his e-commerce store.
+
+Operating under the pseudonym 'Baoer Kechatie', a Chinese individual used deepfake technology to alter his appearance and voice and to portray himself as a Chechnyan soldier on the front lines in Ukraine, claiming to have engaged in battles against US Marines and even boasting about seizing territory and weapons.
+
+Despite the fabricated nature of his persona, he managed to sell various products, including imported Russian goods like vodka and honey, through his online store.
+
+While a number of the deepfake videos were labeled as movie or drama plots, comments posted by users indicated he had successfully convinced many people, some of whom 'even cheered for his success', according to Sixth Tone.
+
+Doubts about the man's identity began to surface amongst his 400,000+ followers, particularly surrounding his Chinese accent.
+
+Users then discovered that the IP address of his Douyin (the original, Chinese version of TikTok) account showed he was in Henan, matching his accent.",2023,China; Ukraine,Politics; Govt - defence,,,Video,Fraud,Private individual - adult,Deceive,Financial,Unknown,Individual,Synthetic persona,"Media users, Consumers",Unknown,Synthesis,None,"Economic or financial harm, Reputational harm, Harm to public interest","Opprobrium, Media investigation",Actual,Social media,,High,Sophisticated
+AIAAIC0365,"Deepfake ""student"" accuses couple of being terrorist sympathisers",Agreement,"Activist couple Masri and Barnard were accused of being ""known terrorist sympathisers"" by an unknown entity disguised as a ""student"".
+
+London-based academic Mazen Masri and his wife Ryvka Bernard were attacked in an article for US Jewish nespaper The Algemeiner apparently written by University of Birmingham student ""Oliver Taylor.""
+
+Someone of the same name had bylines in the Jerusalem Post and the Times of Israel, and ""he"" was described in online profiles as a coffee lover and politics junkie.
+
+However, experts identified Taylor's photograph had been generated using AI and journalists found that he did not exist.
+
+Others suspect Taylor was concocted by controversial Israeli company NSO Group, against which Masri had launched an Israeli lawsuit on behalf of alleged Mexican victims of the company's phone hacking technology.
+
+The incident was seen to highlight the potential for deepfake technology to be weaponised against individuals, especially activists and public figures.",2020,Israel; UK,Technology,NSO Group,,Image,Synthetic Entertainer,,"Influence, Deceive","Social, Political",Yes,Unknown,Synthetic persona,"Media users, High-profile individuals",Unknown,Synthesis,None,"Psychological harm, Harm to public interest",Media investigation,Actual,"Forums, Website",Public,Low,Sophisticated
+AIAAIC1912,Deepfake applicants discovered duping UK university interviews,Agreement,"What happened
+
+Automated interviews for international students applying to UK universities are being corrupted by fake interviews in which applicants have been discovered using AI-generated images or audio to replace faces and voices, allowing applicants to replace their words or accent with a more fluent version, or to disguise the fact someone else entirely is giving the answers.",2025,UK,Education,,,Video,Fraud,Private individual - adult,Influence,Social,Yes,Individual,Synthetic persona,"Private individual - adult, High-profile individuals",Unknown,Replacement,Reputational harm,Reputational harm,News report,Generic,Video Conferencing,Anonymous,Low,Sophisticated
+AIAAIC1423,Deepfake audio depicts London Mayor dismissing Remembrance Sunday,Agreement,"A number of AI-generated audio clips falsely depicting the Mayor of London denigrating the UK's 2023 Remembrance commemorations raised concerns about the use of synthetic disinformation in politics.
+
+One voice clip impersonating Sadiq Khan disparaged Remembrance weekend and called for pro-Palestinian marches, planned for the same day, to take precedence. The recordings, which have been tracked to Tiktok account HJB News, were spread across multiple platforms before being removed.
+
+Mr Khan told the BBC that 'The timing couldn't have been better if you're seeking to sow disharmony and cause problems,' and said the posts almost led to ‘serious disorder’. He also expressed concerns that current UK criminal law fails to cover this kind of scenario and is not ‘fit for purpose’.",2023,UK,Politics,HJB News,,Audio,Propaganda,Unknown,Influence,Political,Yes,Group,Politician,"Media users, National or political constituency",Unknown,Reenactment,"Reputational harm, Harm to public interest","Reputational harm, Harm to public interest, Psychological harm","Content removal, News report",Actual,Social media,Public,Low,Sophisticated
+AIAAIC1152,Deepfake audio falsely depicts Barack Obama discussing conspiracy theory,Agreement,"A deepfake audio recording depicting Barack Obama defending himself against a conspiracy theory about the sudden death of his former chef Tafari Campbell was identified as a hoax.
+
+The audio recording was identified as a deepfake by misinformation monitoring company NewsGuard, which exposed a network of TikTok accounts posting videos whose baseless claims are often supported solely by narration from AI voices.
+
+Despite TikTok’s new guidelines requiring realistic synthetic media to be labelled, the accounts, which bypass these restrictions, have been able to gain hundreds of millions of views.
+
+NewsGuard noted that the trend of using synthetic audio to share sensational rumours sets a precedent for bad actors to manipulate public opinion and share falsehoods to mass audiences online.",2023,USA,Politics,,ElevenLabs,Audio,Propaganda,Unknown,Influence,"Political, Financial",Unknown,Unknown,Politician,"Media users, National or political constituency",Unknown,Reenactment,Reputational harm,Harm to public interest,"Content removal, Media investigation, News report",Actual,"Social media, Messaging application",Public,Low,Sophisticated
+AIAAIC1137,Deepfake audio recording claims opposition leaders tried to rig Slovakian election,Agreement,"A deepfake audio recording appearing to depict a pro-European politician and journalist discussing methods to rig Slovakia’s 2023 election raised concerns about the use of AI in political elections.
+
+The audio recording featured Michal Šimečka, leader of the liberal Progressive Slovakia party, and Denník N journalist Monika Tódová apparently discussing how to manipulate the election. Posted during a 48-hour pre-election moratorium, it was quickly discovered to be a synthetic hoax by AFP and other fact-checking organisations.
+
+The incident raised concerns about the use of underhand methods in Slovakia’s elections, the use of deepfakes in politics, and the ease with which Meta's policies can be bypassed. Because the post was audio, it exploited a loophole in Meta’s manipulated-media policy, whichdictates only falsified videos go against its rules.
+
+Progressive Slovakia received 18 percent of the vote making it the second largest party in the country’s parliament behind SMER, which had campaigned to withdraw military support for its neighbour, Ukraine.
+
+It is unclear to what extent the deepfake influenced the result.",2023,Slovakia,Politics,,,Audio,Propaganda,Unknown,Influence,Political,Yes,Unknown,Politician,"National or political constituency, Media users",Unknown,Reenactment,Reputational harm,Harm to public interest,"News report, Media investigation",Actual,Social media,Public,Low,Sophisticated
+AIAAIC0687,Deepfake audio recording used in Dubai child custody battle,Agreement,"Deepfake technology was used to create a fake audio recording of a lawyer's client during a UK child custody battle in Dubai.
+
+Dubai-based family lawyer Byron James revealed that a 'heavily doctored' recording of his client appearing to utter 'violent' threats towards his wife had been presented in court, threats he claimed had not been uttered.
+
+Experts examining the deepfake's metadata concluded the recording had been manipulated. If the piece of evidence had not been challenged, it would have negatively affected the client’s case by portraying him as a violent and aggressive man.
+
+This incident raised concerns about about the reliability of legal evidence in the age of AI. It also pointed to the need for judicial training for judges and litigators to identify manipulated evidence.",2020,UAE/Dubai; UK,Govt - justice,,,Audio,Extortion,Unknown,Influence,"Social, Financial",Yes,Unknown,Private individual - adult,"High-profile individuals, Private individual - adult",Unknown,Reenactment,Reputational harm,Psychological harm,"Lawsuit, News report",Actual,,Close,Low,Sophisticated
+AIAAIC0390,Deepfake Belgium PM links COVID-19 with climate crisis,Agreement,"A fake video created by climate activist group Extinction Rebellion of Belgian Prime Minister Sophie Wilmès claiming that COVID-19 was directly linked to the 'exploitation and destruction by humans of our natural environment,' prompted concerns about the increasing use of deepfakes in politics.
+
+Named 'THE TRUTH ABOUT COVID-19 AND THE ECOLOGICAL CRISIS', the video was published on Facebook and garnered over 100,000 views within 24 hours.
+
+The clip was published with a disclaimer saying 'Any resemblance to actual persons is intentional. This video may be fake, but the information it contains is genuine.'",2020,Belgium,Politics,Extinction Rebellion Belgium,Extinction Rebellion Belgium,Video,Propaganda,Activist,Influence,Political,Yes,Group,Politician,"Media users, National or political constituency",Unknown,Reenactment,Reputational harm,"Harm to public interest, Physical harm","Media investigation, News report",Actual,Social media,Public,Low,Sophisticated
+AIAAIC1853,"Deepfake Bono, Bob Geldof hold Israeli flag",Agreement,"What happened
+
+An image of Irish musicians Bono and Bob Geldorf surfaced online, accompanied by claims that the artists were endorsing Israel amid ongoing tensions related to the Israel-Hamas conflict.
+
+The claim gained traction after criticism from Irish singer Mary Coughlan, who questioned their silence on the issue.
+
+The image was first posted by a satirical account and was acknowledged as fake by the same account two days later.
+
+Why it happened
+
+The creation and dissemination of the AI-generated image first appeared on a satirical account known for producing fake news and topical satire.
+
+Neither Bono nor Geldof has publicly supported Israel in recent events, maintaining their silence on the ongoing conflict despite previous calls for peace in the region.
+
+What it means
+
+The incident highlights the growing challenge of distinguishing real images from those generated by AI, especially in politically charged contexts.
+
+It also underscores the importance of verifying information before sharing, particularly when it involves public figures and contentious topics.",2024,Ireland; Israel; Palestine,Politics,,,Image,Propaganda,Unknown,Influence,"Political, Social",Yes,Group,Public figure,"Media users, Fans",Unknown,Editing,Reputational harm,Harm to public interest,"News report, Media investigation",Actual,Social media,Public,Low,Rudimentary
+AIAAIC1321,Deepfake CFO scams finance worker for USD 25 million,Agreement,"Scammers tricked a Hong Kong-based employee of a British engineering company into paying out HKD 200 million (USD 26 million) with a fake group video call created using deepfake technology.
+
+According to Hong Kong police, the worker received a strange message purportedly from his company’s UK-based chief financial officer asking for a secret transaction to be carried out.
+
+Attending a subsequent video call, the employee was reassured by several colleagues whom he thought he recognised.
+
+However, it transpired that all the 'people' on the call were in fact deepfake recreations of colleagues that had been manipulated using public video footage.
+
+The scam was discovered when the employee later checked with the company's head office.",2024,Hong Kong,Banking/financial services,Bank employee,,Video,Fraud,Scammers,Deceive,Financial,Yes,Group,Private individual - adult,Private individual - adult,Unknown,Reenactment,None,"Economic or financial harm, Reputational harm","Loss recovery, News report",Actual,Video Conferencing,Close,High,Sophisticated
+AIAAIC0391,Deepfake Donald Trump calls for climate agreement exit,Agreement,"Flemish Socialist party Vooruit created a deepfake video of then US president Donald Trump calling on Belgium to join America in exiting the Paris climate agreement.
+
+The video, which was posted to Facebook and Twitter and was reputedly intended to 'start a public debate' to 'draw attention to the necessity to act on climate change', ended by calling for people to sign a petition encouraging investment in renewable energies, electronic cars and public transport.
+
+In the English version of the video, Trump said, 'We all know climate change is fake, just like this video.'
+
+But he did not in the Flemish language version, apparently leading some users to believe it was real, with some complaining that the then US president should be involved in Belgium's politics.",2018,Belgium,Politics,Vooruit,Vooruit,Video,Propaganda,Nation state,Influence,"Political, Social",Yes,Group,Politician,"Media users, National or political constituency",Unknown,Reenactment,Reputational harm,"Harm to public interest, Environmental harm","Media investigation, News report",Actual,Social media,Public,High,Sophisticated
+AIAAIC0984,Deepfake Donald Trump is arrested,Agreement,"Fake AI images of Donald Trump appearing to be tackled to the ground and arrested by New York police officers went viral online, fooling some people into thinking they were real.
+
+Created by investigative website Belingcat founder Eliot Higgins using AI image generator Midjourney, the images included shots of Trump's wife Melania screaming, his daughter Ivanka yelling, son Donald Trump Jr protesting, and the former US president in orange prison fatigues.
+
+The images were published shortly before Trump was to appear in court over his alleged hush money payments to porn star Stormy Daniels.
+
+Higgins was later banned by Midjourney for violating its terms of use. The word 'arrested' was also banned on the platform.
+
+The incident led commentators to highlight the necessity of dedicated AI regulation.",2023,USA,Politics,Eliot Higgins; Midjourney,Midjourney,Image,Propaganda,Private individual - adult,"Influence, Entertain","Political, Social",Yes,Individual,Politician,"National or political constituency, Media users",Proprietary,Editing,Reputational harm,Harm to public interest,"Content removal, User ban, News report",Actual,Social media,Public,Low,Rudimentary
+AIAAIC1162,Deepfake Greta Thunberg promotes use of 'vegan grenades',Agreement,"A video of Swedish environmental activist Greta Thunberg speaking out about the 2023 Israel-Hamas war in which she called for the use of 'biodegradable missiles' and 'vegan hand grenades' was doctored using AI, according to experts.
+
+In the video, which circulated widely on X, TikTok and Reddit, Thunberg appeared to say to the BBC, 'War's always bad, specifically for the planet. If we want to continue fighting battles like environmentally conscious humans, we must make the change to sustainable tanks and weaponry.'
+
+The clip was allegedly created by German comedy outlet Snicklick and was labelled as satire.
+
+However, some users appeared to believe it was real, while others chose to use it as an opportunity to attack Thunberg for her pro-Palestinian views and her environmental beliefs, and to spread disinformation.",2023,Sweden,Politics,,Snicklick,Video,Propaganda,Artist,"Entertain, Influence","Political, Social",No,Group,Public figure,"Media users, Fans",Unknown,Editing,Reputational harm,Harm to public interest,"Opprobrium, News report",Actual,Social media,Public,Low,Rudimentary
+AIAAIC1117,"Deepfake IDs used in HKD 200,000 bank fraud",Agreement,"Six people were arrested in Hong Kong accused of making loan applications using deepfake technology and drefrauding banks and financial services companies of HKD 200,000.
+
+According to police, the group stole at least eight ID cards and used them to open 54 bank accounts between September 2022 and July 2023. Then they applied for up to 90 loans from 20 banks and financial institutions, four of which were approved.
+
+Police say the group once succeeded in using a face swap program to spoof a bank’s facial recognition authentication process, though it was not clear how many attempts were made.
+
+It was thought to be the first known instance of scammers using stolen ID cards and deepfake technologies to defraud financial agencies in Hong Kong.",2023,Hong Kong,Banking/financial services,,,Image,Fraud,Scammers,Deceive,Financial,Yes,Group,Private individual - adult,,Unknown,Replacement,"Reputational harm, Economic or financial harm","Reputational harm, Economic or financial harm","Arrest, Criminal investigation, News report",Actual,,Anonymous,High,Sophisticated
+AIAAIC0893,Deepfake impersonating FTX CEO attempts to scam investors,Agreement,"A fake video of Sam Bankman-Fried (SBF), the disgraced former CEO of cryptocurrency exchange FTX, attempted to scam investors affected by the exchange’s bankruptcy.
+
+The poorly made 'deepfake' video, which is a manipulated version of a Bloomberg Markets and Finance interview, attempts to direct users to a malicious website under the promise of a 'giveaway' that will double your cryptocurrency.
+
+The Twitter account was verified and mimicked SBF’s real account.
+
+The scam appeared to take advantage of Twitter CEO Elon Musk's decision to sell blue verification checks for USD 8.
+
+ftxcompensation.com prominently featured Bankman-Fried’s face and FTX’s logo and was registered to an individual in Nevis, near Puerto Rico.
+
+The website has since been taken offline.",2022,Bahamas; USA,Banking/financial services,,,Video,Fraud,Scammers,Deceive,Financial,Yes,Unknown,Public figure,"High-profile individuals, Consumers",Unknown,Editing,Reputational harm,Economic or financial harm,"Content removal, News report",Actual,Social media,Public,Low,Rudimentary
+AIAAIC1934,"Deepfake J.D. Vance accuses Elon Musk of ""making us look bad""",Agreement,"What happened
+
+An AI-generated audio clip contained distorted claims about Musk ""making us look bad"" and ""cosplaying as this great American leader"".
+
+Shared initially by Bishop Talbert Swan without disclaimers about its authenticity, the clip prompted Vance to threaten legal action for defamation if unretracted.
+
+Forensic analyses revealed technical anomalies including unnatural speech cadence, deliberate background noise, and inconsistencies with Vance's vocal patterns.
+
+Why it happened
+
+The fabrication emerged amid existing public scrutiny of Musk's political influence through his leadership of the Department of Government Efficiency (DOGE).
+
+Experts suggest the low-quality audio and misspelled captions (""Vence"" instead of Vance) in early posts indicate intentional disinformation tactics to exploit partisan divisions.
+
+AI voice synthesis tools likely enabled the convincing mimicry.
+
+What it means
+
+The incident eroded public trust in digital media in the USA, with social media users split between dismissing the clip as fake and suspecting an official cover-up.
+
+For policymakers and tech leaders, the episode underscores urgent needs for authentication protocols and public education about deepfake risks.",2025,USA,Politics,Talbert W. Swan II,,Video,Propaganda,Unknown,Influence,"Political, Social",Unknown,Unknown,"Politician, Public figure","Media users, Fans, National or political constituency",Unknown,Reenactment,Reputational harm,Harm to public interest,"News report, Opprobrium",Actual,Social media,Public,Low,Rudimentary
+AIAAIC0389,Deepfake Joe Biden threatens to defund US police,Agreement,"A video shared by US Republican Congressman Steve Scalise of US President candidate Joe Biden apparently threatening to defund the police in a discussion with healthcare activist Ady Barkan has been debunked as a deepfake.
+
+The video was found to have been manipulated by splicing in the words 'for police' during a quote from Barkan from an original video of an interview between Barkan and Joe Biden that was published by NowThis News.
+
+Under pressure from Barkan and others, Scalise later deleted the faked video. Twitter had labelled the video as manipulated.
+
+The incident was one in a number of deepfakes released during the 2020 US Presidential election that were seen likely to jeopardise US political processes and democracy.",2020,USA,Politics,Steve Scalise,Steve Scalise,Video,Propaganda,Unknown,Influence,"Political, Social",Yes,Unknown,"Politician, Public figure","Media users, National or political constituency",Unknown,Editing,Reputational harm,Harm to public interest,"Content removal, Opprobrium, News report",Actual,Social media,Public,Low,Rudimentary
+AIAAIC1474,Deepfake John Swinney thanks Nicola Sturgeon for his election,Agreement,"A video purportedly showing Scotland's new First Minister lambasting his party's former leader and its policies in parliament went viral on social media.
+
+The video showed John Swinney, the new Scottish First Minister in what appeared to be a live Sky News broadcast, thanking Nicola Sturgeon for 'ensuring' his re-election and blasting his party's policies.
+
+It was seen over 300,000 times online, having been shared by right-wing social media accounts.
+
+However, Swinney's voice had been manipulated using AI in the video. He had been officially installed as Scottish First Minister after Humza Yousaf resigned, and was elected to the post in a vote at Scotland's parliament.
+
+The incident showed the ease with which deepfake videos can be generated and distributed, and raised concerns about the potential impact of misinformation and disinformation on politics as a whole, as well as the individuals and entities being targeted.",2024,UK - Scotland,Politics,,,Video,Propaganda,Unknown,Influence,Political,Yes,Unknown,Politician,"Media users, National or political constituency",Unknown,Editing,"Reputational harm, Harm to human rights and fundamental rights",Harm to public interest,News report,Actual,Social media,Public,Low,Rudimentary
+AIAAIC1167,Deepfake Justin Trudeau endorses Petro-Canada scam,Agreement,"A fake Facebook video ad used clips of a Canadian television anchor and Prime Minister Justin Trudeau to lure Canadians to invest in Petro-Canada.
+
+The video, which was seen over 15,000 times, gave the appearance of Trudeau and Canadian Broadcasting Corporation (CBC) anchor Aarti Pole explaining that Petro-Canada had launched a new investment platform that was available to all residents of the country.
+
+The energy company confirmed it had made no such offer and CBC said Pole had made no such statement.
+
+Per AFP, a reverse-image search of a screenshot from the clip led to a real video of the prime minister discussing the deaths of a family who attempted to cross the Canada-US border.
+
+The videos of Trudeau and the news presenter were manipulated to include words neither of them said.",2023,Canada,Energy; Politics,Facebook,,Video,Fraud,Unknown,Deceive,Financial,Yes,Unknown,"Politician, Public figure","Media users, National or political constituency, Consumers",Unknown,Editing,Reputational harm,"Economic or financial harm, Harm to public interest",News report,Actual,Social media,Public,Low,Rudimentary
+AIAAIC1617,Deepfake Kamala Harris slurs her lines,Agreement,"An AI-generated video apparently showing US Vice President Kamala Harris speaking incoherently and claiming she said things she never actually said prompted concerns about electoral disinformation and interference.
+
+The 22-second clip purported to show Harris saying, “Today is today. And yesterday was today yesterday. Tomorrow will be today tomorrow. So live today so that future today will past today, as it is tomorrow.”
+
+In reality, the video was created by combining audio from a parody circulating on TikTok with footage of a speech Harris gave on reproductive rights at Howard University in April 2023. The original footage and official White House transcript do not contain such remarks.
+
+A watermark added to the text on the podium indicated the video was created by a pro-Donald Trump meme account whose tweet drew over 1.2 million views, according to AFP.
+
+The video circulated widely on social media platforms, including Facebook and TikTok, leading California Governor Gavin Newsom and others to call for stricter regulations against synthetic misinformation and disinformation in a political context.",2024,USA,Politics,,,Video,Propaganda,,"Influence, Entertain","Political, Social",Yes,Unknown,Politician,"Media users, National or political constituency",Unknown,Editing,Reputational harm,Harm to public interest,"News report, Content removal",Actual,Social media,Public,Low,Rudimentary
+AIAAIC0921,Deepfake Mark Ruffalo scams manga artist Chikae Ide,Agreement,"Japanese manga artist Chikae Ide was scammed of over half a million US dollars after being tricked by a deepfake version of Marvel's Hulk actor Mark Ruffalo.
+
+The Asahi Shimbun tells how Chikae Ide was contacted on Facebook by someone claiming to be Ruffalo, who built an emotional trust with her, 'met' on video, developed a romantic online relationship, and were unofficially married online.
+
+After the 'marriage', the scammer continually asked for thousands of dollars for plane tickets, hospital bills, and cash troubles, and even faked having cancer.
+
+Police have been unable to identify the person posing as Ruffalo.
+
+The true saga is told in Ide's new book Poison Love, and fictionalised in a comic with the same title.",2022,Japan,Media/entertainment/sports/arts,,,Video,Fraud,Scammers,Deceive,Financial,Yes,Individual,Public figure,"Private individual - adult, High-profile individuals",Unknown,Reenactment,Reputational harm,"Economic or financial harm, Psychological harm","News report, Media investigation",Actual,Social media,Public,High,Sophisticated
+AIAAIC1130,Deepfake MrBeast iPhone giveaway scam,Agreement,"An advert of YouTube star Jimmy Donaldson (aka MrBeast) offering free iPhone 15 smartphones on TikTok was exposed as a deepfake scam.
+
+The fake ad claimed that MrBeast had selected 10,000 people to receive an iPhone 15 Pro in exchange 'for just USD 2'; those interested were then encouraged to click a link below the video to participate.
+
+The ad was exposed as fraudulent by MrBeast, who took to Twitter to say 'Lots of people are getting this deepfake scam ad of me… are social media platforms ready to handle the rise of AI deepfakes? This is a serious problem.'
+
+The latest in a series of fraud attempts involving celebrities manipulated using synthetic media, the incident raised concerns about the volume and nature of deepfake impersonations. TikTok also came under fire for its apparent inability to properly moderate its platform.",2023,USA,Media/entertainment/sports/arts,,,Video,"Fraud, Likeness Appropriation",Scammers,Deceive,Financial,Yes,Unknown,Public figure,"Media users, Fans, Consumers",Unknown,Reenactment,Reputational harm,Economic or financial harm,"News report, Opprobrium",Actual,Social media,Public,Low,Sophisticated
+AIAAIC1422,Deepfake news anchor accuses US of Bangladesh election interference,Agreement,"A deepfake audio recording appearing to depict a news anchor criticising the US has been amongst a wave of synthetic disinformation spread in the lead up to the general election in Bangladesh.
+
+A report by the Financial Times indicated that entities aligned with Bangladesh government had been using a variety of AI tools to craft deepfake videos and fabricate news segments with the aim of influencing public opinion.
+
+The content had been circulated by pro-government media outlets.
+
+The incident underscored the challenges of controlling the use of AI for political purposes.",2023,Bangladesh,Politics,,HeyGen,Audio,Propaganda,Nation state,Influence,Political,Yes,Institution,Public figure,"Media users, National or political constituency",Proprietary,Reenactment,Reputational harm,Harm to public interest,"News report, Media investigation",Actual,"Website, Social media",Public,Low,Sophisticated
+AIAAIC1215,Deepfake nudes target Winnipeg school female students,Agreement,"What happened
+
+Doctored photos created using publicly accessible social media images of the students were altered using AI to produce highly explicit images and shared online, prompting students to report the incident to school officials.
+
+Approximately 300 fake nude images were believed to have been created, affecting dozens of girls, many of whom were reported to have suffered serious emotional distress, feelings of violation, shame, fear of others, and anger.
+
+Winnipeg police investigated the incident but laid no charges.
+
+Why it happened
+
+The incident was made possible due to the increasing accessibility and advancement of AI image generation tools, which have made it possible to produce highly realistic deepfakes with minimal effort.
+
+Furthernore, some of these tools are expressly designed to facilitate this kind of behaviour, while others have few or no guardrails to limit how they can be used.
+
+The perpetrators may have used one of these tools without fully understanding the gravity of their actions or the legal implications.
+
+What it means
+
+The incident highlights the growing challenge of protecting individuals, especially young girls, from abuse by people using AI.
+
+It also underscores the need for fit-for-purpose legislation to address AI-generated explicit content, particularly involving minors, and improved digital literacy education in schools and amongst parents,",2023,Canada,Education,,,Image,Non-consensual sexual media,Unknown,"Harass, Entertain",Sexual,Yes,Unknown,Private individual - minor,Media users,Unknown,Editing,"Reputational harm, Psychological harm, Harm to human rights and fundamental rights",Psychological harm,"Media investigation, Criminal investigation, News report",Actual,Social media,,Low,Rudimentary
+AIAAIC1161,Deepfake Palestinian man carries children out of rubble,Generic impersonation,"An image of a man carrying children through rubble during Israel's bombing of the Gaza Strip has been assessed as a probable deepfake.
+
+The deepfake image, which appears to show a man helping five children away from the scene of a destroyed building, was shared over 80,000 times on social media and was further amplified on X (formerly Twitter) of the Chinese embassy in France.
+
+Siwei Lyu, director of the Media Forensic Lab at the University of Buffalo, told AFP that the image classifies 'as AI generated by recent detection algorithms,' and highlighted irregularities in the hands and feet.",2023,Israel; Palestine,Politics,,,Video,Propaganda,Unknown,Influence,Political,Unknown,Unknown,Synthetic persona,"Media users, National or political constituency",Unknown,Synthesis,None,"Harm to public interest, Psychological harm","News report, Media investigation",Actual,Social media,,Low,Rudimentary
+AIAAIC1486,Deepfake Philippines President urges military action against China,Agreement,"An audio/video clip of Philippines President Ferdinand Marcos Jr. apparently ordering a military attack against China caused alarm and resulted in the Philippines government cracking down on deepfakes.
+
+The deepfake clip, which was taken down, appeared to order the “armed forces and special task groups” to act however they deem appropriate should China “attack” the Philippines.
+
+Photographs of Chinese activities in the West Philippine Sea – including publicly released images from the Philippine Coast Guard – flashed in the video as a slideshow as the audio played.
+
+The clip was taken down on the orders of Philippines authorities. The country's Presidential Communications Office disavowed it and said it was considering legal action against the cuplrits. The government subsequently announced it was working on measures to combat fake news, misinformation and disinformation.
+
+The incident raised concerns about the potential for confusion and panic, strained diplomatic relations and loss of trust in the media and government via deepfake misinformation and disinformation.
+
+It came at a time when tensions between the Philippines and China have been rising in the South China Sea.",2024,Philippines,Politics; Govt - defence,,,Video,Propaganda,Unknown,Influence,Political,Yes,Unknown,Politician,"National or political constituency, Media users",Unknown,Reenactment,Reputational harm,Harm to public interest,"Content removal, Media investigation, News report",Actual,Social media,Public,Low,Sophisticated
+AIAAIC1907,Deepfake Pierce Brosnan scam cripples art gallery,Agreement,"What happened
+
+Simone Simms, the owner of SMS Art Gallery in Nottingham, spent months negotiating with what she believed to be Pierce Brosnan for an exclusive art exhibition. Brosnan is a keen painter.
+
+The gallery advertised the event, selling tickets for up to GBP 500 for a meet-and-greet with the actor.
+
+However, the real Pierce Brosnan denied any involvement with the exhibition and event, saying he would ""never charge for a meet and greet"" and that his attorney had sent a cease-and-desist letter to the gallery.
+
+The exhibition and meet-and-greet were revealed to be a deepfake scam, leaving the gallery owner's livelihood and reputation in ruins.
+
+Ms Simms refunded the GBP 20,000 of sold tickets but was forced to shut her gallery.
+
+What it means
+
+The incident resulted in severe financial losses, the closure of Simms' business and damage to her professional reputation. For Pierce Brosnan, the unauthorised use of his likeness could potentially harm his public image and future business opportunities.
+
+More broadly, the case highlights the growing threat of deepfake technology in various sectors, including the art world and entertainment industry.
+
+It also highlights the need for improved detection methods, legal frameworks, and public awareness to combat the misuse of deepfake technology.",2024,UK,Media/entertainment/sports/arts,,,Image,Fraud,Unknown,Deceive,Financial,Unknown,Unknown,Public figure,"Fans, Consumers",Unknown,Reenactment,Reputational harm,Economic or financial harm,"News report, Media investigation",Actual,Website,Public,High,Sophisticated
+AIAAIC1068,Deepfake Pope Francis wears deepfake LGBTQ+ flag,Agreement,"Photographs of Pope Francis cloaked in the pride flag used to show support for LGBTQ+ people has been found to have been generated by artificial intelligence.
+
+The photos, which circulated on Twitter and Facebook, came amidst a spike in anti-LGBTQ disinformation on social media coinciding with the celebration of pride month in June 2023. The images appear to designed to build support for the LGBTQ+ movement.
+
+The first versions of the images discovered by AFP emanated from a Twitter account named 'Gay Forest' and had been shared on Facebook under the same name in April 2023.",2023,Argentina; Italy,Religion,xAI; Facebook,Midjourney,Image,Propaganda,Unknown,Influence,"Political, Social",Unknown,Unknown,Public figure,"Media users, Fans, National or political constituency",Proprietary,Editing,Unknown,"Psychological harm, Harm to public interest","Media investigation, News report",Actual,Social media,Public,Low,Rudimentary
+AIAAIC0845,Deepfake President Zelenskyy instructs Ukraine army to surrender,Agreement,"A deepfake video circulated online allegedly showing Ukraine president Volodymyr Zelenskyy instructing his army to lay down their arms and surrender.
+
+According to disinformation experts the Atlantic Council’s Digital Forensic Research Lab, the video was first aired on hacked news programme Ukraine 24.
+
+Ukraine 24 quickly posted a warning on Facebook that it had been hacked and that the video was fake.
+
+Facebook later removed it from its platform for violating its policy against misleading manipulated media.",2022,Ukraine; Russia,Politics,,,Video,Propaganda,Unknown,Influence,Political,Yes,Unknown,Politician,"Media users, National or political constituency",Unknown,Reenactment,"Reputational harm, Harm to public interest","Psychological harm, Harm to public interest","Content removal, Media investigation, Opprobrium, News report",Actual,"Social media, Website",Public,High,Sophisticated
+AIAAIC1141,Deepfake recordings depict Keir Starmer abusing staff,Agreement,"A deepfake audio recording appearing to depict the leader of the UK Labour Party, Sir Keir Starmer, swearing at a party staffer raised concerns about the underhand use of synthetic disinformation in politics.
+
+The audio clip was posted on X, formerly Twitter, during the first day of the Labour Party Conference and was quickly identified as a hoax by MPs from across the political spectrum.
+
+Though X's policies explicitly state that users 'may not share synthetic, manipulated, or out-of-context media,' it did not prevent the clip being widely circulated. However, most copies have since been removed.",2023,UK,Politics,,,Audio,Propaganda,Unknown,Influence,Political,Yes,Unknown,Politician,"Media users, National or political constituency",Unknown,Reenactment,Reputational harm,Harm to public interest,"Content removal, Media investigation, News report, Opprobrium",Actual,Social media,Public,Low,Rudimentary
+AIAAIC0379,Deepfake romance scammer swindles California widow,Agreement,"A California widow was defrauded of approximately USD 287,000 by a romance scammer who used deepfake technology to impersonate US Navy admiral Sean Buck.
+
+This scam began in the fall of 2019 when the victim ""M.M."" joined an online dating site around six months after her husband had passed away. Over several months, she developed a relationship with ""Buck"", who claimed to be stationed on an aircraft carrier in the Middle-east.
+
+The scam escalated when M.M. was also in contact with another supposed suitor, ""Robert Ankeny,"" who claimed to be in trouble while building a hospital in Turkey. M.M. sent Ankeny USD 20,000 to help him, believing he was in danger after a construction accident.
+
+Buck then assured her he could help Ankeny but requested that she liquidate her accounts and wire the funds to a lawyer in New York, who would then send the money to Turkey. This manipulation led M.M. to send multiple payments to Buck totaling USD 287,928.
+
+The FBI noted that this case marked a significant example of deepfake technology being used in romance scams, which traditionally involve scammers establishing trust over time before requesting money.",2020,USA,Banking/financial services; Govt - police,,,Image,Fraud,Scammers,Deceive,Financial,Yes,Unknown,"Synthetic persona, Public figure",Private individual - adult,Unknown,Reenactment,"None, Reputational harm","Economic or financial harm, Psychological harm","Media investigation, News report",Actual,"Messaging application, Social media",Close,Low,Sophisticated
+AIAAIC0154,"Deepfake Barack Obama calls Donald Trump ""a total and complete dipshit""",Agreement,"What happened
+
+The fabricated clip showed a seemingly authentic Obama delivering uncharacteristically inflammatory remarks, including references to the film Black Panther and direct insults toward Trump.
+
+While the video’s creators filmmaker Jordan Peele and BuzzFeed explicitly framed it as a warning about disinformation risks, its realistic execution caused initial confusion among viewers.
+
+Why it happened
+
+Peele’s project aimed to preemptively expose how deepfakes could be weaponised, particularly in political contexts.
+
+The video emerged amid growing concerns about AI tools being used for nonconsensual pornography (96 percent of early deepfakes targeted women) and electoral interference.
+
+Experts noted that while this specific deepfake used “primitive” techniques by modern standards, it foreshadowed more sophisticated manipulations requiring less source material.
+
+What it means
+
+The incident underscored vulnerabilities in media literacy and the risks of AI-driven disinformation campaigns. For society, it signaled a paradigm shift where “seeing is no longer believing,” complicating efforts to discern truth in digital content.
+
+Politically, such technology could enable fabricated scandals to influence elections or incite unrest, as seen in Gabon where a disputed video contributed to a coup attempt.
+
+While the Obama deepfake itself seemed to cause no direct harm, it exemplified how synthetic media could destabilise democratic processes and individual reputations.",2018,USA,Politics,,Jordan Peele; Jonah Peretti,Video,Likeness Appropriation,Artist,"Influence, Entertain",Social,No,Institution,Politician,"Media users, National or political constituency, Fans",Unknown,Reenactment,Reputational harm,Harm to public interest,"Opprobrium, News report",Actual,"Social media, Website",Public,High,Rudimentary
+AIAAIC0150,Alec Baldwin Donald Trump deepfake sparks disinformation fears,Agreement,"A deepfake spoof of Donald Trump by Saturday Night Live host Alec Baldwin sparked a debate about the implications and ethics of deepfake technology.
+
+The video used a clip from the October 1, 2016 episode of Saturday Night Live during which Baldwin skewered Trump's performance in the first general presidential debate, and overlaid Trump's face on that of Alec Baldwin.
+
+Alec Baldwin impersonated Trump many times during the 2016 US presidential election for Saturday Night Live, something the notoriously thin-skinned businessman and politician appeared to find distinctly unamusing.
+
+The deepfake sparked discussions about the implications of deepfake technology in political discourse and raised concerns about misinformation and the potential for deepfakes to mislead audiences.",2018,USA,Media/entertainment/sports/arts,derpfakes,,Video,Likeness Appropriation,Artist,Entertain,Social,No,Institution,Politician,"Media users, Consumers, Fans, High-profile individuals",Unknown,Replacement,"Reputational harm, Psychological harm","Psychological harm, Unknown",Opprobrium,Actual,"Television, Streaming Platform, Social media",Public,High,Rudimentary
