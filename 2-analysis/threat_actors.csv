@@ -1,0 +1,14 @@
+Threat Actor,Count,Entertain,Experiment,Deceive,Harass,Influence,Provoke,Financial,Political,Sexual,Social,Yes,No,Individual,Group,Institution,Rudimentary,Sophisticated
+Fraudsters,39,1,0,38,0,0,0,39,0,0,0,39,0,11,22,0,4,35
+Commercial content creators,25,17,2,5,0,0,1,17,1,0,2,9,16,3,5,17,17,8
+Deepfake technology provider,20,10,2,3,1,0,0,13,0,5,1,13,6,5,1,12,13,7
+Political campaigner,18,0,0,1,1,16,0,0,18,0,0,15,2,7,6,4,14,4
+Satirist,12,2,0,0,0,2,8,0,5,0,4,8,3,9,2,0,12,0
+Sexualized deepfake creator (Adult),11,7,0,0,3,0,0,1,0,7,0,11,0,7,4,0,11,0
+Sexualized deepfake creator (minor),10,3,0,0,7,0,0,0,0,7,0,3,7,3,6,0,10,0
+Nation state,9,0,0,1,0,8,0,1,8,0,0,9,0,0,0,9,4,5
+State-aligned institutions,7,0,0,0,1,5,0,1,5,0,0,6,0,0,0,7,3,4
+Critical experimenters,4,0,4,0,0,0,0,0,1,0,3,3,1,2,2,0,4,0
+Socially motivated harassers,2,0,0,0,2,0,0,0,0,0,2,2,0,1,1,0,2,0
+Opportunistic deceivers,2,0,0,2,0,0,0,0,0,0,1,2,0,2,0,0,2,0
+Unknown,33,5,1,6,7,10,0,3,13,9,2,23,0,3,0,0,23,10

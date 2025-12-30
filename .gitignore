@@ -1,4 +1,6 @@
 1-data/
 .DS_Store
 .env
-3-tests/irr/*.csv
+3-tests/irr/**/*.csv
+.venv
+
