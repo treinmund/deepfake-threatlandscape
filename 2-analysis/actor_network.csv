@@ -29,10 +29,7 @@ AIAAIC1020,Fraudsters,Private individual - adult,Close,Private individual - adul
 AIAAIC1431,Commercial content creators,Public figure,Close,Fans
 AIAAIC1105,Unknown,Public figure,Public,Media users
 AIAAIC1243,Deepfake technology provider,Private individual - minor,Anonymous,Media users
-AIAAIC1190,Unknown,Private individual - adult,Anonymous,Media users
-AIAAIC1190,Unknown,Private individual - minor,Anonymous,Media users
-AIAAIC1190,Unknown,Public figure,Anonymous,Media users
-AIAAIC1190,Unknown,Politician,Anonymous,Media users
+AIAAIC1190,Unknown,Any,Anonymous,Media users
 AIAAIC1375,Unknown,Public figure,Public,National or political constituency
 AIAAIC0210,Deepfake technology provider,Any,Any,Media users
 AIAAIC1784,Commercial content creators,Public figure,Public,Consumers
@@ -59,7 +56,6 @@ AIAAIC1934,Political campaigner,Politician,Public,National or political constitu
 AIAAIC0389,Political campaigner,Politician,Public,National or political constituency
 AIAAIC1474,Unknown,Politician,Public,National or political constituency
 AIAAIC1167,Fraudsters,Politician,Public,Media users
-AIAAIC1167,Fraudsters,Public figure,Public,Media users
 AIAAIC1617,Satirist,Politician,Public,National or political constituency
 AIAAIC0921,Fraudsters,Public figure,Public,High-profile individuals
 AIAAIC1130,Fraudsters,Public figure,Public,Fans
@@ -71,7 +67,6 @@ AIAAIC1907,Fraudsters,Public figure,Public,Private company
 AIAAIC1068,Political campaigner,Public figure,Public,Media users
 AIAAIC0845,Unknown,Politician,Public,National or political constituency
 AIAAIC1141,Unknown,Politician,Public,National or political constituency
-AIAAIC0379,Fraudsters,Private individual - adult,Anonymous,Private individual - adult
 AIAAIC0379,Fraudsters,Synthetic persona,Anonymous,Private individual - adult
 AIAAIC0856,Unknown,Synthetic persona,Anonymous,Media users
 AIAAIC1293,Fraudsters,Public figure,Public,Fans
@@ -94,7 +89,6 @@ AIAAIC0227,Fraudsters,Private individual - adult,Close,High-profile individuals
 AIAAIC0289,Deepfake technology provider,Synthetic persona,Anonymous,Media users
 AIAAIC1500,Unknown,Public figure,Public,Fans
 AIAAIC2018,Unknown,Any,Anonymous,Unknown
-AIAAIC1682,Unknown,Public figure,Anonymous,Media users
 AIAAIC1682,Unknown,Politician,Anonymous,Media users
 AIAAIC1954,Fraudsters,Private individual - adult,Anonymous,Private company
 AIAAIC0519,State-aligned institutions,Synthetic persona,Anonymous,National or political constituency
@@ -141,7 +135,6 @@ AIAAIC1005,Fraudsters,Private individual - minor,Close,Private individual - adul
 AIAAIC0775,Fraudsters,Private individual - adult,Close,Private individual - adult
 AIAAIC1165,Commercial content creators,Public figure,Public,Consumers
 AIAAIC1959,Fraudsters,Synthetic persona,Anonymous,High-profile individuals
-AIAAIC1270,Fraudsters,Journalist,Public,National or political constituency
 AIAAIC1270,Fraudsters,Politician,Public,National or political constituency
 AIAAIC1812,Sexualized deepfake creator (minor),Private individual - minor,Close,Private individual - minor
 AIAAIC1945,Fraudsters,Public figure,Public,Media users
@@ -151,17 +144,14 @@ AIAAIC1973,Sexualized deepfake creator (minor),Private individual - minor,Close,
 AIAAIC1154,Sexualized deepfake creator (adult),Synthetic persona,Anonymous,Private individual - adult
 AIAAIC0771,Sexualized deepfake creator (adult),Politician,Public,Private individual - adult
 AIAAIC1164,Commercial content creators,Public figure,Public,Consumers
-AIAAIC1294,Sexualized deepfake creator (minor),Private individual - adult,Close,Private individual - minor
 AIAAIC1294,Sexualized deepfake creator (minor),Private individual - minor,Close,Private individual - minor
 AIAAIC0347,Unknown,Any,Any,Media users
 AIAAIC0345,Deepfake technology provider,Synthetic persona,Anonymous,Media users
 AIAAIC1367,Satirist,Politician,Public,National or political constituency
-AIAAIC1367,Satirist,Synthetic persona,Public,National or political constituency
 AIAAIC0383,Critical experimenters,Synthetic persona,Anonymous,National or political constituency
 AIAAIC1669,Deepfake technology provider,Any,Any,Any
 AIAAIC1184,Sexualized deepfake creator (adult),Private individual - minor,Close,Creator
 AIAAIC0155,Unknown,Public figure,Public,Fans
-AIAAIC0395,Commercial content creators,Politician,Public,Fans
 AIAAIC0395,Commercial content creators,Public figure,Public,Fans
 AIAAIC1497,Commercial content creators,Public figure,Anonymous,Media users
 AIAAIC1082,Commercial content creators,Public figure,Public,Consumers
@@ -194,14 +184,12 @@ AIAAIC1611,Nation state,Journalist,Public,National or political constituency
 AIAAIC1624,Fraudsters,Public figure,Public,Fans
 AIAAIC1692,Deepfake technology provider,Any,Any,Any
 AIAAIC1727,Sexualized deepfake creator (adult),Private individual - minor,Close,Media users
-AIAAIC1727,Sexualized deepfake creator (adult),Private individual - adult,Close,Media users
 AIAAIC1803,Sexualized deepfake creator (adult),Private individual - adult,Close,Creator
 AIAAIC1877,Unknown,Private individual - minor,Close,Private individual - minor
 AIAAIC1910,Satirist,Public figure,Public,Media users
 AIAAIC1922,Commercial content creators,Private individual - adult,Public,Media users
 AIAAIC1937,Fraudsters,Public figure,Public,National or political constituency
 AIAAIC1941,Deepfake technology provider,Public figure,Any,Unknown
-AIAAIC1941,Deepfake technology provider,Private individual - minor,Any,Unknown
 AIAAIC1960,Fraudsters,Politician,Public,National or political constituency
 AIAAIC1985,Fraudsters,Politician,Close,High-profile individuals
 AIAAIC1998,Fraudsters,Politician,Public,Media users
