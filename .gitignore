@@ -3,4 +3,5 @@
 .env
 3-tests/irr/**/*.csv
 .venv
+5-output/
 

@@ -1,0 +1,112 @@
+Cohen's Kappa per code:
+attack sophistication_rudimentary: 0.502
+attack sophistication_sophisticated: 0.530
+audience_any: 0.000
+audience_consumers: 0.357
+audience_court: 0.000
+audience_creator: 0.616
+audience_fans: 0.550
+audience_government department: 0.000
+audience_high-profile individuals: 0.452
+audience_media users: 0.303
+audience_national or political constituency: 0.763
+audience_politician: 0.000
+audience_private company: 0.238
+audience_private individual - adult: 0.496
+audience_private individual - minor: 0.581
+audience_university: 0.000
+audience_unknown: 0.432
+barrier to entry_high: 0.431
+barrier to entry_low: 0.402
+goal_deceive: 0.737
+goal_entertain: 0.462
+goal_experiment: 0.095
+goal_harass: 0.616
+goal_influence: 0.577
+goal_provoke: 0.000
+goal_unknown: -0.023
+harm awareness_no: 0.441
+harm awareness_unknown: 0.164
+harm awareness_yes: 0.414
+harm-audience_economic or financial harm: 0.829
+harm-audience_environmental harm: 0.000
+harm-audience_harm to human rights and fundamental rights: 0.000
+harm-audience_harm to public interest: 0.734
+harm-audience_physical harm: -0.005
+harm-audience_psychological harm: 0.161
+harm-audience_reputational harm: 0.475
+harm-audience_unknown: 0.259
+harm-target_economic or financial harm: 0.621
+harm-target_harm to human rights and fundamental rights: 0.434
+harm-target_harm to public interest: 0.393
+harm-target_none: 0.000
+harm-target_physical harm: 0.664
+harm-target_psychological harm: 0.654
+harm-target_reputational harm: 0.306
+harm-target_unknown: 0.170
+mechanism of dissemination_advertisement: 0.419
+mechanism of dissemination_analog: -0.010
+mechanism of dissemination_custom application: 0.472
+mechanism of dissemination_forums: 0.490
+mechanism of dissemination_messaging application: 0.217
+mechanism of dissemination_news: -0.018
+mechanism of dissemination_phone communication: 0.849
+mechanism of dissemination_porn site: -0.012
+mechanism of dissemination_radio: 0.000
+mechanism of dissemination_social media: 0.562
+mechanism of dissemination_streaming platform: 0.571
+mechanism of dissemination_television: 0.616
+mechanism of dissemination_video conferencing: 0.834
+mechanism of dissemination_website: 0.347
+media type_audio: 0.831
+media type_image: 0.719
+media type_video: 0.738
+motive_financial: 0.770
+motive_legal: 0.000
+motive_political: 0.893
+motive_sexual: 0.829
+motive_social: 0.364
+motive_unknown: -0.008
+organization level_group: 0.580
+organization level_individual: 0.567
+organization level_institution: 0.615
+organization level_unknown: 0.402
+realis_actual: 0.550
+realis_generic: 0.594
+realis_other: 0.000
+response_arrest: 0.963
+response_content removal: 0.694
+response_criminal investigation: 0.583
+response_explusion: 0.000
+response_imprisonment: 0.000
+response_lawsuit: 0.616
+response_loss recovery: 0.745
+response_media investigation: 0.258
+response_military action: 0.000
+response_news report: -0.040
+response_opprobrium: 0.536
+response_policy proposal: 0.180
+response_private investigation: 0.000
+response_technology ban: 0.328
+response_usage policy change: 0.323
+response_user ban: 0.591
+social relation_anonymous: 0.716
+social relation_any: 0.532
+social relation_close: 0.798
+social relation_public: 0.812
+target_any: 0.468
+target_high-profile individual: 0.000
+target_journalist: 0.215
+target_politician: 0.844
+target_private individual - adult: 0.611
+target_private individual - minor: 0.858
+target_public figure: 0.775
+target_synthetic persona: 0.851
+tool_custom: -0.028
+tool_open-source: 0.415
+tool_proprietary: 0.542
+tool_unknown: 0.674
+
+Average Cohen's Kappa: 0.416
+Krippendorff's Alpha: 0.642
+
