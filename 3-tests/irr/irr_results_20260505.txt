@@ -1,0 +1,71 @@
+Cohen's Kappa per code:
+audience_creator: 0.906
+audience_followers: 0.680
+audience_high-profile individuals: 0.920
+audience_institution: 0.872
+audience_national or political constituency: 0.739
+audience_private individual - adult: 0.749
+audience_private individual - minor: 0.749
+audience_unspecified: 0.557
+mechanism of dissemination_advertisement: 1.000
+mechanism of dissemination_custom application: 0.975
+mechanism of dissemination_forums: 1.000
+mechanism of dissemination_messaging application: 1.000
+mechanism of dissemination_other: 1.000
+mechanism of dissemination_phone communication: 1.000
+mechanism of dissemination_porn site: 1.000
+mechanism of dissemination_radio: 1.000
+mechanism of dissemination_social media: 0.928
+mechanism of dissemination_streaming platform: 0.702
+mechanism of dissemination_television: 0.822
+mechanism of dissemination_unspecified: 1.000
+mechanism of dissemination_video conferencing: 0.945
+mechanism of dissemination_website: 1.000
+media type_audio: 0.830
+media type_image: 0.737
+media type_video: 0.734
+method_enactment: 0.988
+method_replacement: 0.965
+method_synthesis: 0.981
+motive_financial: 0.914
+motive_legal: 1.000
+motive_political: 0.964
+motive_sexual: 0.938
+motive_social: 1.000
+organization level_group: 0.834
+organization level_individual: 0.883
+organization level_institution: 0.850
+organization level_unknown: 1.000
+response_account termination: 0.828
+response_arrest: 0.856
+response_content labelling: 0.662
+response_content removal: 0.700
+response_criminal investigation: 0.780
+response_expulsion: 1.000
+response_imprisonment: 1.000
+response_independent investigation: 0.692
+response_lawsuit: 0.672
+response_loss recovery: 0.798
+response_no additional response: 0.815
+response_policy proposal: 1.000
+response_regulatory investigation: 0.886
+response_service takedown: 0.931
+response_user policy change: 0.660
+social relation_anonymous: 0.804
+social relation_any: 1.000
+social relation_close: 0.838
+social relation_public: 0.851
+target_any: 0.556
+target_journalist: 1.000
+target_politician: 0.855
+target_private individual - adult: 0.666
+target_private individual - minor: 0.858
+target_public figure: 0.826
+target_synthetic persona: 0.851
+tool_open-source: 1.000
+tool_proprietary: 0.717
+tool_unspecified: 0.737
+
+Average Cohen's Kappa: 0.864
+Krippendorff's Alpha: 0.871
+

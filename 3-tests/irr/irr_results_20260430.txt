@@ -1,0 +1,54 @@
+Cohen's Kappa per code:
+audience_creator: 0.906
+audience_followers: 0.680
+audience_high-profile individuals: 0.920
+audience_institution: 0.872
+audience_national or political constituency: 0.739
+audience_private individual - adult: 0.749
+audience_private individual - minor: 0.749
+audience_unspecified: 0.557
+mechanism of dissemination_advertisement: 0.419
+mechanism of dissemination_analog: -0.010
+mechanism of dissemination_custom application: 0.489
+mechanism of dissemination_forums: 0.490
+mechanism of dissemination_messaging application: 0.215
+mechanism of dissemination_news: -0.018
+mechanism of dissemination_phone communication: 0.849
+mechanism of dissemination_porn site: -0.012
+mechanism of dissemination_radio: 0.000
+mechanism of dissemination_social media: 0.565
+mechanism of dissemination_streaming platform: 0.570
+mechanism of dissemination_television: 0.615
+mechanism of dissemination_video conferencing: 0.834
+mechanism of dissemination_website: 0.366
+method_enactment: 0.453
+method_replacement: 0.441
+method_synthesis: 0.631
+method_unknown: 0.000
+response_account termination: 0.828
+response_arrest: 0.856
+response_content labelling: 0.662
+response_content removal: 0.700
+response_criminal investigation: 0.780
+response_expulsion: 1.000
+response_imprisonment: 1.000
+response_independent investigation: 0.680
+response_lawsuit: 0.672
+response_loss recovery: 0.798
+response_no additional response: 0.815
+response_policy proposal: 0.496
+response_regulatory investigation: 0.745
+response_service takedown: 0.931
+response_user policy change: 0.660
+social relation_anonymous: 0.715
+social relation_any: 0.557
+social relation_close: 0.815
+social relation_public: 0.818
+tool_custom: -0.028
+tool_open-source: 0.414
+tool_proprietary: 0.559
+tool_unknown: 0.677
+
+Average Cohen's Kappa: 0.596
+Krippendorff's Alpha: 0.725
+

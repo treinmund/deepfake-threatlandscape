@@ -1,0 +1,40 @@
+Cohen's Kappa per code:
+audience_creator: 0.906
+audience_followers: 0.680
+audience_high-profile individuals: 0.920
+audience_institution: 0.872
+audience_media users: 0.391
+audience_national or political constituency: 0.739
+audience_private individual - adult: 0.749
+audience_private individual - minor: 0.749
+audience_unspecified: 0.391
+harm-audience_emotional harm: 0.694
+harm-audience_financial harm: 0.870
+harm-audience_harm to public interest: 0.597
+harm-audience_relational harm: 0.558
+harm-audience_unknown: 0.662
+harm-target_emotional harm: 0.771
+harm-target_financial harm: 0.493
+harm-target_physical harm: 1.000
+harm-target_relational harm: 0.761
+harm-target_unknown: 0.823
+response_account termination: 0.828
+response_arrest: 0.856
+response_content labelling: 0.662
+response_content removal: 0.700
+response_criminal investigation: 0.780
+response_expulsion: 1.000
+response_imprisonment: 1.000
+response_independent investigation: 0.680
+response_lawsuit: 0.672
+response_loss recovery: 0.798
+response_no additional response: 0.628
+response_opprobrium: 0.624
+response_policy proposal: 0.328
+response_regulatory investigation: 0.745
+response_service takedown: 0.931
+response_user policy change: 0.660
+
+Average Cohen's Kappa: 0.729
+Krippendorff's Alpha: 0.749
+
